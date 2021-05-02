@@ -51,6 +51,9 @@ jobs:
       - name: Run Formatter 💅
         run: yarn format
 
+      - name: Run Test 🛠
+        run: yarn test
+
       - name: Run Build ⚙
         run: yarn build
 

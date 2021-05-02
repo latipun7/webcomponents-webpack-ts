@@ -1,4 +1,3 @@
-import React from 'react';
 import bigImg from 'assets/test-img.jpg';
 import tinyImg from 'assets/test-img-tiny.png';
 
