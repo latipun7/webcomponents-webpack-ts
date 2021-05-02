@@ -16,7 +16,7 @@
     },
     {
       "src": "/react-webpack-ts/assets/maskable_icon.png",
-      "sizes": "711x711",
+      "sizes": "787x787",
       "type": "image/png",
       "purpose": "any maskable"
     }
