@@ -1,4 +1,4 @@
-import Index from 'src/App';
+import Index from 'src/app';
 import { render } from './test.utils';
 
 describe('Index pages', () => {

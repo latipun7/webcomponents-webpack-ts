@@ -5,7 +5,7 @@ import svgToMiniDataURI from 'mini-svg-data-uri';
 import postcssPresetEnv from 'postcss-preset-env';
 import type { Configuration } from 'webpack';
 
-import { buildDir, srcDir } from './paths';
+import { buildDir, srcDir, resolvePath } from './paths';
 
 const dev = async (): Promise<Configuration> => ({
   mode: 'development',
@@ -18,7 +18,7 @@ const dev = async (): Promise<Configuration> => ({
   devServer: {
     open: true,
     hot: true,
-    contentBase: './public',
+    contentBase: resolvePath('public'),
     watchContentBase: true,
     historyApiFallback: true,
     overlay: { errors: true, warnings: true },

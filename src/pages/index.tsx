@@ -1,7 +1,8 @@
 import bigImg from 'assets/test-img.jpg';
 import tinyImg from 'assets/test-img-tiny.png';
+import type { VFC } from 'react';
 
-function App() {
+const Index: VFC = () => {
   return (
     <>
       <img
@@ -16,6 +17,6 @@ function App() {
       <div>Test apps.</div>
     </>
   );
-}
+};
 
-export default App;
+export default Index;

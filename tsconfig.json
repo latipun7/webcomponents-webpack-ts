@@ -17,7 +17,9 @@
     "moduleResolution": "node",
     "paths": {
       "assets/*": ["src/assets/*"],
+      "components/*": ["src/components/*"],
       "lib/*": ["src/lib/*"],
+      "pages/*": ["src/pages/*"],
       "styles/*": ["src/styles/*"]
     },
     "typeRoots": ["./node_modules/@types", "./typings"],
