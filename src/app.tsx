@@ -6,7 +6,8 @@ import type { FC } from 'react';
 
 const App: FC = () => {
   return (
-    <BrowserRouter>
+    // NOTE: for github page. Remove `basename` if using custom domain.
+    <BrowserRouter basename="/react-webpack-ts">
       <header>
         <Menu />
       </header>
