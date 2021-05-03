@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0-alpha.0",
+  "api_version": 1,
+  "layout": {
+    "logo": "yandex-browser-50x50.png",
+    "color": "#36393f",
+    "show_title": true
+  },
+  "categories": [],
+  "icons": [
+    {
+      "src": "maskable_icon.png",
+      "sizes": "787x787",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
