@@ -1,10 +1,5 @@
 export type Styles = {
-  logo: string;
-  mainNavigation: string;
-  menuButton: string;
-  menuLink: string;
-  menuLinks: string;
-  open: string;
+  hero: string;
 };
 
 export type ClassNames = keyof Styles;

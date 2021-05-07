@@ -47,8 +47,8 @@ const Menu: VFC<Props> = () => {
 
   return (
     <>
-      <nav>
-        <a href="/">
+      <nav className={styles.mainNavigation}>
+        <a href="/" className={styles.logo}>
           <span>à la Dine</span>
         </a>
 
