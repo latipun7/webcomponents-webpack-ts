@@ -1,12 +1,8 @@
 export type Styles = {
-  'hero-text': string;
-  'is-visible': string;
-  logo: string;
-  'nav-menu': string;
-  navMenu: string;
-  'right-side': string;
-  'toggle-menu': string;
-  'toggle-theme': string;
+  menuButton: string;
+  menuLinks: string;
+  menuLink: string;
+  open: string;
 };
 
 export type ClassNames = keyof Styles;

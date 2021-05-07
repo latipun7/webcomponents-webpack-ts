@@ -1,33 +1,84 @@
+import clsx from 'clsx';
+import { useState, useEffect, createRef } from 'react';
 import { FiMenu } from 'react-icons/fi';
 import { NavLink } from 'react-router-dom';
-import type { FC } from 'react';
+import type { VFC } from 'react';
 
 import styles from './menu.module.scss';
 
 interface Props {}
 
-const Menu: FC<Props> = () => {
-  return (
-    <nav id="nav-container" className={styles.navMenu}>
-      <a href="/">
-        <span id={styles.logo}>A la Dine</span>
-      </a>
+const Menu: VFC<Props> = () => {
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const menuLinksElement = createRef<HTMLUListElement>();
+  const menuButtonElement = createRef<HTMLButtonElement>();
 
-      <div className={styles['right-side']}>
-        <FiMenu focusable="false" />
-        <ul id={styles['nav-menu']}>
-          <li>
-            <NavLink to="/">Home</NavLink>
+  const handleClickOutside = ({ target }: MouseEvent) => {
+    if (
+      !menuLinksElement.current?.contains(target as Node) &&
+      !menuButtonElement.current?.contains(target as Node)
+    ) {
+      setIsMenuOpen(false);
+    }
+  };
+
+  useEffect(() => {
+    document.addEventListener('click', handleClickOutside, true);
+    return () => {
+      document.removeEventListener('click', handleClickOutside, true);
+    };
+  });
+
+  const handleToggleMenu = () => {
+    setIsMenuOpen(!isMenuOpen);
+  };
+
+  const handleClickMenuLink = () => {
+    setIsMenuOpen(false);
+  };
+
+  const menuLinksClassNames = clsx(styles.menuLinks, {
+    [styles.open]: isMenuOpen,
+  });
+
+  const menuButtonClassNames = clsx(styles.menuButton, {
+    [styles.open]: isMenuOpen,
+  });
+
+  return (
+    <>
+      <nav>
+        <a href="/">
+          <span>à la Dine</span>
+        </a>
+
+        <button
+          className={menuButtonClassNames}
+          onClick={handleToggleMenu}
+          ref={menuButtonElement}
+        >
+          <FiMenu size="1.50rem" aria-label="Toggle navigation menu" />
+        </button>
+
+        <ul className={menuLinksClassNames} ref={menuLinksElement}>
+          <li className={styles.menuLink}>
+            <NavLink to="/" onClick={handleClickMenuLink}>
+              Home
+            </NavLink>
           </li>
-          <li>
-            <NavLink to="/favorite">Favorite</NavLink>
+          <li className={styles.menuLink}>
+            <NavLink to="/favorite" onClick={handleClickMenuLink}>
+              Favorite
+            </NavLink>
           </li>
-          <li>
-            <NavLink to="/about">About Us</NavLink>
+          <li className={styles.menuLink}>
+            <NavLink to="/about" onClick={handleClickMenuLink}>
+              About Us
+            </NavLink>
           </li>
         </ul>
-      </div>
-    </nav>
+      </nav>
+    </>
   );
 };
 
