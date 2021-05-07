@@ -6,6 +6,7 @@ import MiniCssExtractPlugin from 'mini-css-extract-plugin';
 import svgToMiniDataURI from 'mini-svg-data-uri';
 import postcssPresetEnv from 'postcss-preset-env';
 import { BundleAnalyzerPlugin } from 'webpack-bundle-analyzer';
+import { EnvironmentPlugin } from 'webpack';
 import type { Configuration } from 'webpack';
 
 import { buildDir, srcDir } from './paths';
@@ -28,6 +29,9 @@ const prod = async (): Promise<Configuration> => ({
     },
   },
   plugins: [
+    new EnvironmentPlugin({
+      NODE_ENV: 'production',
+    }),
     new ForkTsCheckerWebpackPlugin({
       eslint: { files: './src/**/*.{ts,tsx,js,jsx}', options: { cache: true } },
     }),

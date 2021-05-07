@@ -4,14 +4,15 @@ import Menu from 'components/menu';
 import Index from 'pages/index';
 import type { FC } from 'react';
 
+const isProduction = process.env.NODE_ENV === 'production';
+
 const App: FC = () => {
   return (
-    // NOTE: for github page. Remove `basename` if using custom domain.
-    <BrowserRouter basename="/react-webpack-ts">
+    <BrowserRouter basename={isProduction ? '/react-webpack-ts' : '/'}>
       <header>
         <Menu />
       </header>
-      <main id="main-content">
+      <main id="main-contents">
         <Switch>
           <Route exact path="/" component={Index} />
         </Switch>

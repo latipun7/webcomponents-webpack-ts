@@ -8,6 +8,12 @@ type ResponsiveImageOutput = {
   width: number;
 };
 
+declare namespace NodeJS {
+  export interface ProcessEnv {
+    NODE_ENV: 'development' | 'production' | 'test';
+  }
+}
+
 declare module '*.png' {
   const content: ResponsiveImageOutput;
   export = content;

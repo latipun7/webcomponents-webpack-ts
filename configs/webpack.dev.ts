@@ -16,7 +16,7 @@ const dev = async (): Promise<Configuration> => ({
     filename: 'scripts/[name].js',
   },
   devServer: {
-    open: true,
+    open: false,
     hot: true,
     contentBase: resolvePath('public'),
     watchContentBase: true,
