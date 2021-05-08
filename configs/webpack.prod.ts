@@ -52,7 +52,7 @@ const prod = async (): Promise<Configuration> => ({
               '@babel/preset-env',
               {
                 useBuiltIns: 'usage',
-                corejs: 3.11,
+                corejs: 3.12,
               },
             ],
             ['@babel/preset-react', { runtime: 'automatic' }],
