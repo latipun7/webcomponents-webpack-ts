@@ -116,16 +116,9 @@ const prod = async (): Promise<Configuration> => ({
                     ],
                   }),
                   purgeCss({
-                    content: [
-                      '{public,src}/**/*.js',
-                      '{public,src}/**/*.jsx',
-                      '{public,src}/**/*.ts',
-                      '{public,src}/**/*.tsx',
-                      '{public,src}/**/*.html',
-                    ],
+                    content: ['{public,src}/**/*.{js,jsx,ts,tsx,html,scss}'],
                     defaultExtractor: (content) =>
                       content.match(/[\w-/:]+(?<!:)/g) || [],
-                    safelist: [/^::-webkit-scrollbar/],
                   }),
                 ],
               },
