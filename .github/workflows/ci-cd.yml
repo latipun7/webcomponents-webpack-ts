@@ -61,8 +61,7 @@ jobs:
         uses: actions/cache@v2.1.5
         with:
           path: |
-            ./**/*
-            !./node_modules
+            ./dist
           key: ${{ github.sha }}-${{ runner.os }}-${{ matrix.node-version }}
 
   deploy:
@@ -87,8 +86,7 @@ jobs:
         uses: actions/cache@v2.1.5
         with:
           path: |
-            ./**/*
-            !./node_modules
+            ./dist
           key: ${{ github.sha }}-${{ runner.os }}-${{ matrix.node-version }}
 
       - name: Deploy 🚀

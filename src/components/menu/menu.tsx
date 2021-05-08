@@ -57,7 +57,7 @@ const Menu: VFC<Props> = () => {
           onClick={handleToggleMenu}
           ref={menuButtonElement}
         >
-          <FiMenu size="1.50rem" aria-label="Toggle navigation menu" />
+          <FiMenu size="1.75em" aria-label="Toggle navigation menu" />
         </button>
 
         <ul className={menuLinksClassNames} ref={menuLinksElement}>
