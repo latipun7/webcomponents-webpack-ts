@@ -3,21 +3,23 @@
 .mainNavigation {
   position: absolute;
   top: 0;
-  color: var.$color;
   width: 100%;
+  background-color: black;
 
   a {
-    text-decoration: none;
-    color: inherit;
     text-transform: uppercase;
   }
 
   .logo {
     padding: 0.5rem 1.5rem;
-    display: block;
-    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font: 2rem var.$headline-font-family;
+    color: invert(var.$color);
     font-weight: bolder;
     text-align: center;
+    transition: color 0.5s ease-in-out;
   }
 
   .menuButton {
@@ -32,8 +34,13 @@
     height: 3rem;
     width: 3rem;
     box-shadow: var.$shadow;
-    transition: all 0.25s ease-in-out;
+    transition: bottom 0.25s ease-in-out, background-color 0.25s ease-in-out,
+      box-shadow 0.25s ease-in-out;
     z-index: 97;
+
+    &.bottom {
+      bottom: 9rem;
+    }
 
     &:hover {
       background-color: darken(var.$primary-color, 5%);
@@ -41,7 +48,7 @@
     }
 
     line {
-      transition: all 0.25s ease-in-out;
+      transition: transform 0.25s ease-in-out;
       transform-origin: center;
     }
 
@@ -67,7 +74,8 @@
     overflow-y: auto;
     font-size: 1.25rem;
     list-style: none;
-    transition: opacity 0.25s, visibility 0.25s 0.25s;
+    transition: opacity 0.25s ease-in-out, visibility 0.25s ease-in-out;
+    z-index: 97;
 
     &.open {
       visibility: visible;
@@ -81,18 +89,89 @@
       background-color: var.$primary-color;
       border-radius: 1rem;
       box-shadow: var.$shadow;
-      transition: all 0.25s ease-in-out;
-
-      &:hover {
-        background-color: darken(var.$primary-color, 5%);
-        box-shadow: 0 0 1px 1px var.$shadow-color;
-      }
 
       a {
-        display: block;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         padding: 1rem 2.5rem;
         width: 100%;
         height: 100%;
+        border-radius: 1rem;
+        transition: background-color 0.25s ease-in-out,
+          box-shadow 0.25s ease-in-out;
+
+        &.active,
+        &:hover,
+        &:focus {
+          background-color: darken(var.$primary-color, 5%);
+          box-shadow: 0 0 1px 1px var.$shadow-color;
+        }
+      }
+    }
+  }
+
+  @media #{var.$screen-laptop} {
+    position: fixed;
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+    height: 5.5rem;
+    transition: height 0.25s ease-in-out, background-color 0.25s ease-in-out;
+    z-index: 98;
+
+    .menuButton {
+      display: none;
+    }
+
+    .menuLinks {
+      visibility: visible;
+      opacity: 1;
+      position: relative;
+      transition: none;
+      bottom: auto;
+      right: auto;
+      display: flex;
+      justify-content: space-evenly;
+
+      .menuLink {
+        margin: 0 auto;
+        background-color: inherit;
+        border-radius: 0;
+        box-shadow: none;
+        transition: color 0.5s ease-in-out;
+        color: invert(var.$color);
+
+        a {
+          padding: 1rem 1.5rem;
+          border-radius: 0;
+
+          &.active,
+          &:hover,
+          &:focus {
+            background-color: hsla(0, 100%, 100%, 0.2);
+            box-shadow: none;
+          }
+        }
+      }
+    }
+
+    &.scrolled {
+      height: 4rem;
+      background-color: var.$background-color;
+      box-shadow: var.$shadow;
+
+      .logo,
+      .menuLink {
+        color: var.$color;
+
+        a {
+          &.active,
+          &:hover,
+          &:focus {
+            background-color: hsla(0, 0%, 0%, 0.2);
+          }
+        }
       }
     }
   }

@@ -1,0 +1,50 @@
+@use './variables' as var;
+
+@keyframes spinAround {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+@keyframes pour {
+  from {
+    transform: rotate(0);
+  }
+
+  to {
+    transform: rotate(45deg);
+  }
+}
+
+@keyframes pulse {
+  from {
+    transform: scale(1);
+  }
+
+  to {
+    transform: scale(0.7);
+  }
+}
+
+@mixin loading($height: 3rem, $width: 3rem) {
+  animation: spinAround 500ms linear infinite;
+  border: 2px solid var.$secondary-color;
+  border-radius: 50%;
+  border-right-color: transparent;
+  border-top-color: transparent;
+  height: $height;
+  width: $width;
+}
+
+@mixin pour($width: 80%, $marginBottom: 1rem) {
+  width: $width;
+  margin-bottom: $marginBottom;
+  animation: pour 1s alternate infinite;
+}
+
+@mixin pulse {
+  animation: pulse 0.3s alternate infinite;
+}

@@ -1,12 +1,6 @@
 export type Styles = {
-  active: string;
   bottom: string;
-  logo: string;
-  mainNavigation: string;
-  menuButton: string;
-  menuLink: string;
-  menuLinks: string;
-  open: string;
+  scrollButton: string;
   scrolled: string;
 };
 

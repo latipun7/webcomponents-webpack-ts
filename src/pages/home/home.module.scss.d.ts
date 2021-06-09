@@ -1,10 +1,9 @@
 export type Styles = {
-  hero: string;
-  lamp: string;
-  lemonade: string;
+  gridContainer: string;
+  isLoading: string;
+  loading: string;
   pour: string;
   pulse: string;
-  readyToPour: string;
   spinAround: string;
 };
 

@@ -14,6 +14,11 @@ declare namespace NodeJS {
   }
 }
 
+declare module '*.svg' {
+  const svg: string;
+  export = svg;
+}
+
 declare module '*.png' {
   const content: ResponsiveImageOutput;
   export = content;
@@ -44,4 +49,7 @@ declare module '*.bmp' {
   export = content;
 }
 
-declare module '*.svg';
+declare module '*.html' {
+  const html: string;
+  export = html;
+}

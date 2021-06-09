@@ -10,12 +10,12 @@ const tsconfigPaths = pathsToModuleNameMapper(compilerOptions.paths, {
 const config: Config.InitialOptions = {
   preset: 'ts-jest',
   verbose: true,
-  setupFilesAfterEnv: ['<rootDir>/tests/test.setup.ts'],
+  testEnvironment: 'jsdom',
   moduleDirectories: ['node_modules', '<rootDir>'],
   moduleNameMapper: {
     '\\.(css|sass|scss)$': 'identity-obj-proxy',
     '\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$':
-      '<rootDir>/tests/__mocks__/files-mock.ts',
+      '<rootDir>/tests/files.mock.ts',
     ...tsconfigPaths,
   },
   testPathIgnorePatterns: ['<rootDir>/node_modules', '<rootDir>/dist'],
