@@ -1,14 +1,14 @@
 {
-  "name": "BrandTitle",
-  "short_name": "BrandTitle",
-  "description": "Description of the BrandTitle",
+  "name": "Web Components Template",
+  "short_name": "Web Components Template",
+  "description": "Web Components template powered by Webpack, Typescript, and others 💪",
   "dir": "auto",
   "lang": "en-US",
   "display": "standalone",
   "orientation": "any",
-  "start_url": "/",
-  "background_color": "#36393f",
-  "theme_color": "#009688",
+  "start_url": "https://latipun7.github.io/webcomponents-webpack-ts/",
+  "background_color": "#eaeaea",
+  "theme_color": "#08d9d6",
   "icons": [
     {
       "src": "android-chrome-36x36.png",
@@ -57,10 +57,12 @@
     },
     {
       "src": "maskable_icon.png",
-      "sizes": "787x787",
+      "sizes": "1024x1024",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
-  "categories": []
+  "categories": [
+    "others"
+  ]
 }
