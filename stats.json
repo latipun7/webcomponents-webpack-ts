@@ -1,8 +1,8 @@
 {
   "hash": "c12ae46fa77b580df885",
   "version": "5.38.1",
-  "time": 51415,
-  "builtAt": 1629679003567,
+  "time": 55926,
+  "builtAt": 1629679651262,
   "publicPath": "/webcomponents-webpack-ts/",
   "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
   "assetsByChunkName": {
@@ -2231,13 +2231,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             },
             {
@@ -3782,13 +3782,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             },
             {
@@ -3882,13 +3882,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             },
             {
@@ -4086,13 +4086,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             },
             {
@@ -4200,13 +4200,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             },
             {
@@ -4777,13 +4777,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             },
             {
@@ -4905,13 +4905,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             },
             {
@@ -6930,13 +6930,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             },
             {
@@ -7172,13 +7172,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             },
             {
@@ -9047,13 +9047,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             },
             {
@@ -9411,8 +9411,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-species-create.js",
-          "issuerName": "./node_modules/core-js/internals/array-species-create.js",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.symbol.js",
+          "issuerName": "./node_modules/core-js/modules/es.symbol.js",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -9420,36 +9420,31 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/lib/app-utils.ts",
-              "name": "./src/lib/app-utils.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/app.ts",
+              "name": "./src/app.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/web.dom-collections.for-each.js",
-              "name": "./node_modules/core-js/modules/web.dom-collections.for-each.js",
-              "id": 4747
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
+              "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-for-each.js",
-              "name": "./node_modules/core-js/internals/array-for-each.js",
-              "id": 8533
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
+              "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-iteration.js",
-              "name": "./node_modules/core-js/internals/array-iteration.js",
-              "id": 2092
-            },
-            {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-species-create.js",
-              "name": "./node_modules/core-js/internals/array-species-create.js",
-              "id": 5417
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.symbol.js",
+              "name": "./node_modules/core-js/modules/es.symbol.js",
+              "id": 2526
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 3157,
-          "issuerId": 5417,
+          "issuerId": 2526,
           "chunks": [
             94
           ],
@@ -10428,13 +10423,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             },
             {
@@ -11162,13 +11157,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             },
             {
@@ -11318,13 +11313,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             },
             {
@@ -11801,13 +11796,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             },
             {
@@ -12108,13 +12103,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             },
             {
@@ -16387,13 +16382,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             },
             {
@@ -16938,8 +16933,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "issuerName": "./src/components/footer/footer.ts",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -16952,13 +16947,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             }
           ],
@@ -17295,8 +17290,8 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "issuerName": "./src/components/footer/footer.ts",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -17309,13 +17304,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             }
           ],
@@ -17628,8 +17623,8 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "issuerName": "./src/components/footer/footer.ts",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -17642,13 +17637,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             }
           ],
@@ -18272,8 +18267,8 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "issuerName": "./src/components/footer/footer.ts",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -18286,13 +18281,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             }
           ],
@@ -18940,8 +18935,8 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "issuerName": "./src/components/footer/footer.ts",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -18954,13 +18949,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             }
           ],
@@ -19258,8 +19253,8 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "issuerName": "./src/components/footer/footer.ts",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -19272,13 +19267,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             }
           ],
@@ -19492,8 +19487,8 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "issuerName": "./src/components/footer/footer.ts",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -19506,13 +19501,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             }
           ],
@@ -19726,8 +19721,8 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "issuerName": "./src/components/footer/footer.ts",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -19740,13 +19735,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             }
           ],
@@ -20072,8 +20067,8 @@
           "optional": false,
           "orphan": false,
           "dependent": false,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "issuerName": "./src/components/footer/footer.ts",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -20086,13 +20081,13 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-              "name": "./src/components/scroll-to-top/index.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+              "name": "./src/components/footer/index.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+              "name": "./src/components/footer/footer.ts",
               "id": null
             }
           ],
@@ -43607,8 +43602,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-      "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+      "issuerName": "./src/components/footer/footer.ts",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -43621,13 +43616,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         }
       ],
@@ -43840,8 +43835,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-      "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+      "issuerName": "./src/components/footer/footer.ts",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -43854,13 +43849,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         }
       ],
@@ -44073,8 +44068,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-      "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+      "issuerName": "./src/components/footer/footer.ts",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -44087,13 +44082,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         }
       ],
@@ -44335,8 +44330,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-      "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+      "issuerName": "./src/components/footer/footer.ts",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -44349,13 +44344,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         }
       ],
@@ -44583,8 +44578,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-      "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+      "issuerName": "./src/components/footer/footer.ts",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -44597,13 +44592,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         }
       ],
@@ -44816,8 +44811,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-      "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+      "issuerName": "./src/components/footer/footer.ts",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -44830,13 +44825,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         }
       ],
@@ -45049,8 +45044,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-      "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+      "issuerName": "./src/components/footer/footer.ts",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -45063,13 +45058,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         }
       ],
@@ -45282,8 +45277,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-      "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+      "issuerName": "./src/components/footer/footer.ts",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -45296,13 +45291,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         }
       ],
@@ -45515,8 +45510,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-      "issuerName": "./src/components/scroll-to-top/scroll-to-top.ts",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+      "issuerName": "./src/components/footer/footer.ts",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -45529,13 +45524,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         }
       ],
@@ -46990,8 +46985,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-species-create.js",
-      "issuerName": "./node_modules/core-js/internals/array-species-create.js",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.symbol.js",
+      "issuerName": "./node_modules/core-js/modules/es.symbol.js",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -46999,36 +46994,31 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/lib/app-utils.ts",
-          "name": "./src/lib/app-utils.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/app.ts",
+          "name": "./src/app.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/web.dom-collections.for-each.js",
-          "name": "./node_modules/core-js/modules/web.dom-collections.for-each.js",
-          "id": 4747
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
+          "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-for-each.js",
-          "name": "./node_modules/core-js/internals/array-for-each.js",
-          "id": 8533
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
+          "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-iteration.js",
-          "name": "./node_modules/core-js/internals/array-iteration.js",
-          "id": 2092
-        },
-        {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-species-create.js",
-          "name": "./node_modules/core-js/internals/array-species-create.js",
-          "id": 5417
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.symbol.js",
+          "name": "./node_modules/core-js/modules/es.symbol.js",
+          "id": 2526
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 3157,
-      "issuerId": 5417,
+      "issuerId": 2526,
       "chunks": [
         94
       ],
@@ -47136,13 +47126,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         },
         {
@@ -47263,13 +47253,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         },
         {
@@ -47376,13 +47366,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         },
         {
@@ -47531,13 +47521,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         },
         {
@@ -47630,13 +47620,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         },
         {
@@ -47729,13 +47719,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         },
         {
@@ -47856,13 +47846,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         },
         {
@@ -47955,13 +47945,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         },
         {
@@ -48054,13 +48044,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         },
         {
@@ -48140,13 +48130,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         },
         {
@@ -48240,13 +48230,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         },
         {
@@ -49904,13 +49894,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         },
         {
@@ -50008,13 +49998,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         },
         {
@@ -50112,13 +50102,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         },
         {
@@ -50230,13 +50220,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         },
         {
@@ -50954,13 +50944,13 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
-          "name": "./src/components/scroll-to-top/index.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/index.ts",
+          "name": "./src/components/footer/index.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
-          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.ts",
+          "name": "./src/components/footer/footer.ts",
           "id": null
         },
         {
@@ -51344,8 +51334,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "0d8826a7f78f01496817",
       "version": "5.38.1",
-      "time": 34024,
-      "builtAt": 1629678986222,
+      "time": 36954,
+      "builtAt": 1629679632342,
       "publicPath": "",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -51943,8 +51933,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.module.scss",
       "hash": "1d65c4813c20b0604b8e",
       "version": "5.38.1",
-      "time": 1683,
-      "builtAt": 1629678990406,
+      "time": 1624,
+      "builtAt": 1629679636943,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -52652,8 +52642,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/hero/hero.module.scss",
       "hash": "304de5dc38d98a8b24d2",
       "version": "5.38.1",
-      "time": 1231,
-      "builtAt": 1629678990734,
+      "time": 1115,
+      "builtAt": 1629679637300,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -53818,8 +53808,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/menu/menu.module.scss",
       "hash": "495af48a20a47bcca4e7",
       "version": "5.38.1",
-      "time": 1169,
-      "builtAt": 1629678990667,
+      "time": 1048,
+      "builtAt": 1629679637230,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -54527,8 +54517,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/not-found/not-found.module.scss",
       "hash": "8db5609df9c814058ef0",
       "version": "5.38.1",
-      "time": 1166,
-      "builtAt": 1629678990674,
+      "time": 1034,
+      "builtAt": 1629679637239,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -55236,8 +55226,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.module.scss",
       "hash": "8cd7a62a4ddfc9a78fd6",
       "version": "5.38.1",
-      "time": 1678,
-      "builtAt": 1629678990395,
+      "time": 1608,
+      "builtAt": 1629679636932,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -55945,8 +55935,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/pages/home/home.module.scss",
       "hash": "85a7f9db259167521d6e",
       "version": "5.38.1",
-      "time": 1029,
-      "builtAt": 1629678990686,
+      "time": 997,
+      "builtAt": 1629679637253,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -56654,8 +56644,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/styles/index.scss",
       "hash": "d094c8a5586f3d513eae",
       "version": "5.38.1",
-      "time": 2821,
-      "builtAt": 1629678990249,
+      "time": 2943,
+      "builtAt": 1629679636778,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
