@@ -1,8 +1,8 @@
 {
   "hash": "c12ae46fa77b580df885",
   "version": "5.38.1",
-  "time": 42642,
-  "builtAt": 1629774830060,
+  "time": 41362,
+  "builtAt": 1629781025944,
   "publicPath": "/webcomponents-webpack-ts/",
   "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
   "assetsByChunkName": {
@@ -9411,8 +9411,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-species-create.js",
-          "issuerName": "./node_modules/core-js/internals/array-species-create.js",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.symbol.js",
+          "issuerName": "./node_modules/core-js/modules/es.symbol.js",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -9420,36 +9420,31 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/lib/app-utils.ts",
-              "name": "./src/lib/app-utils.ts",
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/app.ts",
+              "name": "./src/app.ts",
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/web.dom-collections.for-each.js",
-              "name": "./node_modules/core-js/modules/web.dom-collections.for-each.js",
-              "id": 4747
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
+              "name": "./src/components/scroll-to-top/index.ts",
+              "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-for-each.js",
-              "name": "./node_modules/core-js/internals/array-for-each.js",
-              "id": 8533
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
+              "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+              "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-iteration.js",
-              "name": "./node_modules/core-js/internals/array-iteration.js",
-              "id": 2092
-            },
-            {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-species-create.js",
-              "name": "./node_modules/core-js/internals/array-species-create.js",
-              "id": 5417
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.symbol.js",
+              "name": "./node_modules/core-js/modules/es.symbol.js",
+              "id": 2526
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 3157,
-          "issuerId": 5417,
+          "issuerId": 2526,
           "chunks": [
             94
           ],
@@ -46990,8 +46985,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-species-create.js",
-      "issuerName": "./node_modules/core-js/internals/array-species-create.js",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.symbol.js",
+      "issuerName": "./node_modules/core-js/modules/es.symbol.js",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -46999,36 +46994,31 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/lib/app-utils.ts",
-          "name": "./src/lib/app-utils.ts",
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/app.ts",
+          "name": "./src/app.ts",
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/web.dom-collections.for-each.js",
-          "name": "./node_modules/core-js/modules/web.dom-collections.for-each.js",
-          "id": 4747
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/index.ts",
+          "name": "./src/components/scroll-to-top/index.ts",
+          "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-for-each.js",
-          "name": "./node_modules/core-js/internals/array-for-each.js",
-          "id": 8533
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.ts",
+          "name": "./src/components/scroll-to-top/scroll-to-top.ts",
+          "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-iteration.js",
-          "name": "./node_modules/core-js/internals/array-iteration.js",
-          "id": 2092
-        },
-        {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-species-create.js",
-          "name": "./node_modules/core-js/internals/array-species-create.js",
-          "id": 5417
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.symbol.js",
+          "name": "./node_modules/core-js/modules/es.symbol.js",
+          "id": 2526
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 3157,
-      "issuerId": 5417,
+      "issuerId": 2526,
       "chunks": [
         94
       ],
@@ -51344,8 +51334,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "0d8826a7f78f01496817",
       "version": "5.38.1",
-      "time": 28880,
-      "builtAt": 1629774816338,
+      "time": 28434,
+      "builtAt": 1629781013050,
       "publicPath": "",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -51943,8 +51933,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.module.scss",
       "hash": "1d65c4813c20b0604b8e",
       "version": "5.38.1",
-      "time": 1329,
-      "builtAt": 1629774819559,
+      "time": 1095,
+      "builtAt": 1629781016248,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -52652,8 +52642,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/hero/hero.module.scss",
       "hash": "304de5dc38d98a8b24d2",
       "version": "5.38.1",
-      "time": 869,
-      "builtAt": 1629774819825,
+      "time": 771,
+      "builtAt": 1629781016520,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -53818,8 +53808,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/menu/menu.module.scss",
       "hash": "495af48a20a47bcca4e7",
       "version": "5.38.1",
-      "time": 821,
-      "builtAt": 1629774819775,
+      "time": 729,
+      "builtAt": 1629781016476,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -54527,8 +54517,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/not-found/not-found.module.scss",
       "hash": "8db5609df9c814058ef0",
       "version": "5.38.1",
-      "time": 810,
-      "builtAt": 1629774819769,
+      "time": 720,
+      "builtAt": 1629781016471,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -55236,8 +55226,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.module.scss",
       "hash": "8cd7a62a4ddfc9a78fd6",
       "version": "5.38.1",
-      "time": 1318,
-      "builtAt": 1629774819544,
+      "time": 1088,
+      "builtAt": 1629781016238,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -55945,8 +55935,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/pages/home/home.module.scss",
       "hash": "85a7f9db259167521d6e",
       "version": "5.38.1",
-      "time": 775,
-      "builtAt": 1629774819786,
+      "time": 698,
+      "builtAt": 1629781016485,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -56654,8 +56644,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/styles/index.scss",
       "hash": "d094c8a5586f3d513eae",
       "version": "5.38.1",
-      "time": 2321,
-      "builtAt": 1629774819413,
+      "time": 2151,
+      "builtAt": 1629781016141,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
