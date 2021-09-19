@@ -1,16 +1,20 @@
 {
   "name": "webcomponents-webpack-ts",
   "description": "Web Components template powered by Webpack, Typescript, and others 💪",
-  "author": "Latipun <latifsulistyo.me@gmail.com> (https://latipun7.github.io)",
-  "license": "MIT",
   "private": true,
-  "engines": {
-    "node": ">=12.8.3",
-    "yarn": ">=1.19.0"
-  },
+  "license": "MIT",
+  "homepage": "https://github.com/latipun7/webcomponents-webpack-ts#readme",
   "repository": {
     "type": "git",
     "url": "https://github.com/latipun7/webcomponents-webpack-ts.git"
+  },
+  "author": {
+    "name": "Latif Sulistyo",
+    "email": "latifsulistyo.me@gmail.com",
+    "url": "https://latipun.dev"
+  },
+  "engines": {
+    "node": ">=14.17"
   },
   "scripts": {
     "dev": "rimraf dist && webpack serve --env mode=development",
