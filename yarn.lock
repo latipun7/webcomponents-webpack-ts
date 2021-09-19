@@ -13933,7 +13933,7 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"ts-jest@npm:^27.0.2":
+"ts-jest@npm:^27.0.5":
   version: 27.0.5
   resolution: "ts-jest@npm:27.0.5"
   dependencies:
@@ -14590,7 +14590,7 @@ typescript@^4.3.2:
     sass: ^1.33.0
     sass-loader: ^12.0.0
     sharp: ^0.28.3
-    ts-jest: ^27.0.2
+    ts-jest: ^27.0.5
     ts-node: ^10.0.0
     tsconfig-paths-webpack-plugin: ^3.5.1
     typed-scss-modules: ^4.1.1
