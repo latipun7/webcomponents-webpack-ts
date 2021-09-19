@@ -5229,7 +5229,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cssnano@npm:^5.0.5, cssnano@npm:^5.0.6":
+"cssnano@npm:^5.0.6, cssnano@npm:^5.0.8":
   version: 5.0.8
   resolution: "cssnano@npm:5.0.8"
   dependencies:
@@ -14565,7 +14565,7 @@ typescript@^4.3.2:
     core-js: ^3.13.1
     css-loader: ^5.2.7
     css-minimizer-webpack-plugin: ^3.0.2
-    cssnano: ^5.0.5
+    cssnano: ^5.0.8
     eslint: ^7.32.0
     eslint-config-ruppy-jest: ^2.0.0
     eslint-config-ruppy-node: ^3.0.0
