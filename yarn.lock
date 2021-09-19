@@ -4505,7 +4505,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"clean-webpack-plugin@npm:^4.0.0-alpha.0":
+"clean-webpack-plugin@npm:^4.0.0":
   version: 4.0.0
   resolution: "clean-webpack-plugin@npm:4.0.0"
   dependencies:
@@ -14560,7 +14560,7 @@ typescript@^4.3.2:
     "@webcomponents/webcomponentsjs": ^2.5.0
     babel-jest: ^27.0.2
     babel-loader: ^8.2.2
-    clean-webpack-plugin: ^4.0.0-alpha.0
+    clean-webpack-plugin: ^4.0.0
     copy-webpack-plugin: ^9.0.1
     core-js: ^3.13.1
     css-loader: ^5.2.7
