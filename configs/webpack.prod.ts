@@ -19,7 +19,7 @@ const babelLoader = {
         '@babel/preset-env',
         {
           useBuiltIns: 'usage',
-          corejs: 3.13,
+          corejs: 3.17,
         },
       ],
       ['@babel/preset-typescript', { onlyRemoveTypeImports: true }],
@@ -45,6 +45,9 @@ const prod = async (): Promise<Configuration> => ({
     },
   },
   plugins: [
+    new MiniCssExtractPlugin({
+      filename: '[name]-[contenthash:8].css',
+    }),
     new EnvironmentPlugin({
       NODE_ENV: 'production',
     }),
@@ -53,9 +56,6 @@ const prod = async (): Promise<Configuration> => ({
         files: './src/**/*.{ts,tsx,js,jsx}',
         options: { cache: false },
       },
-    }),
-    new MiniCssExtractPlugin({
-      filename: '[name]-[contenthash:8].css',
     }),
     new BundleAnalyzerPlugin({
       analyzerMode: 'static',
