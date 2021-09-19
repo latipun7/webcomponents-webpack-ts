@@ -1,8 +1,8 @@
 {
   "hash": "6aba16ee038775ab735a",
   "version": "5.38.1",
-  "time": 44130,
-  "builtAt": 1629978558291,
+  "time": 47986,
+  "builtAt": 1632028191212,
   "publicPath": "/webcomponents-webpack-ts/",
   "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
   "assetsByChunkName": {
@@ -5556,8 +5556,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/microtask.js",
-          "issuerName": "./node_modules/core-js/internals/microtask.js",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/task.js",
+          "issuerName": "./node_modules/core-js/internals/task.js",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -5570,16 +5570,16 @@
               "id": 8674
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/microtask.js",
-              "name": "./node_modules/core-js/internals/microtask.js",
-              "id": 5948
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/task.js",
+              "name": "./node_modules/core-js/internals/task.js",
+              "id": 261
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 6833,
-          "issuerId": 5948,
+          "issuerId": 261,
           "chunks": [
             94
           ],
@@ -39884,8 +39884,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/microtask.js",
-      "issuerName": "./node_modules/core-js/internals/microtask.js",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/task.js",
+      "issuerName": "./node_modules/core-js/internals/task.js",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -39898,16 +39898,16 @@
           "id": 8674
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/microtask.js",
-          "name": "./node_modules/core-js/internals/microtask.js",
-          "id": 5948
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/task.js",
+          "name": "./node_modules/core-js/internals/task.js",
+          "id": 261
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 6833,
-      "issuerId": 5948,
+      "issuerId": 261,
       "chunks": [
         94
       ],
@@ -51335,11 +51335,11 @@
   "warnings": [
     {
       "message": "asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  assets/apple-touch-startup-image-2048x2732.png (257 KiB)\n  assets/apple-touch-startup-image-2732x2048.png (260 KiB)",
-      "stack": "AssetsOverSizeLimitWarning: asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  assets/apple-touch-startup-image-2048x2732.png (257 KiB)\n  assets/apple-touch-startup-image-2732x2048.png (260 KiB)\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/webpack/lib/performance/SizeLimitsPlugin.js:134:7\n    at Hook.eval [as callAsync] (eval at create (/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/tapable/lib/Hook.js:18:14)\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/webpack/lib/Compiler.js:843:27\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/neo-async/async.js:2818:7\n    at done (/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/neo-async/async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/webpack/lib/Compiler.js:697:33\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/graceful-fs/graceful-fs.js:144:16\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/graceful-fs/graceful-fs.js:61:14"
+      "stack": "AssetsOverSizeLimitWarning: asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).\nThis can impact web performance.\nAssets: \n  assets/apple-touch-startup-image-2048x2732.png (257 KiB)\n  assets/apple-touch-startup-image-2732x2048.png (260 KiB)\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/webpack/lib/performance/SizeLimitsPlugin.js:134:7\n    at Hook.eval [as callAsync] (eval at create (/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/tapable/lib/Hook.js:18:14)\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/webpack/lib/Compiler.js:843:27\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/neo-async/async.js:2818:7\n    at done (/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/neo-async/async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/webpack/lib/Compiler.js:697:33\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/graceful-fs/graceful-fs.js:143:16\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/fs-extra/node_modules/graceful-fs/graceful-fs.js:61:14"
     },
     {
       "message": "webpack performance recommendations: \nYou can limit the size of your bundles by using import() or require.ensure to lazy load some parts of your application.\nFor more info visit https://webpack.js.org/guides/code-splitting/",
-      "stack": "NoAsyncChunksWarning: webpack performance recommendations: \nYou can limit the size of your bundles by using import() or require.ensure to lazy load some parts of your application.\nFor more info visit https://webpack.js.org/guides/code-splitting/\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/webpack/lib/performance/SizeLimitsPlugin.js:153:21\n    at Hook.eval [as callAsync] (eval at create (/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/tapable/lib/Hook.js:18:14)\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/webpack/lib/Compiler.js:843:27\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/neo-async/async.js:2818:7\n    at done (/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/neo-async/async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/webpack/lib/Compiler.js:697:33\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/graceful-fs/graceful-fs.js:144:16\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/graceful-fs/graceful-fs.js:61:14"
+      "stack": "NoAsyncChunksWarning: webpack performance recommendations: \nYou can limit the size of your bundles by using import() or require.ensure to lazy load some parts of your application.\nFor more info visit https://webpack.js.org/guides/code-splitting/\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/webpack/lib/performance/SizeLimitsPlugin.js:153:21\n    at Hook.eval [as callAsync] (eval at create (/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:9:1)\n    at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/tapable/lib/Hook.js:18:14)\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/webpack/lib/Compiler.js:843:27\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/neo-async/async.js:2818:7\n    at done (/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/neo-async/async.js:3522:9)\n    at Hook.eval [as callAsync] (eval at create (/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:6:1)\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/webpack/lib/Compiler.js:697:33\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/graceful-fs/graceful-fs.js:143:16\n    at /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/fs-extra/node_modules/graceful-fs/graceful-fs.js:61:14"
     }
   ],
   "warningsCount": 2,
@@ -51348,8 +51348,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "0d8826a7f78f01496817",
       "version": "5.38.1",
-      "time": 29369,
-      "builtAt": 1629978543574,
+      "time": 32812,
+      "builtAt": 1632028176082,
       "publicPath": "",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -51947,8 +51947,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/footer/footer.module.scss",
       "hash": "1d65c4813c20b0604b8e",
       "version": "5.38.1",
-      "time": 1348,
-      "builtAt": 1629978546888,
+      "time": 1381,
+      "builtAt": 1632028179491,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -52656,8 +52656,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/hero/hero.module.scss",
       "hash": "304de5dc38d98a8b24d2",
       "version": "5.38.1",
-      "time": 894,
-      "builtAt": 1629978547176,
+      "time": 1012,
+      "builtAt": 1632028179841,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -53822,8 +53822,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/menu/menu.module.scss",
       "hash": "495af48a20a47bcca4e7",
       "version": "5.38.1",
-      "time": 841,
-      "builtAt": 1629978547120,
+      "time": 955,
+      "builtAt": 1632028179781,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -54531,8 +54531,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/not-found/not-found.module.scss",
       "hash": "8db5609df9c814058ef0",
       "version": "5.38.1",
-      "time": 829,
-      "builtAt": 1629978547113,
+      "time": 942,
+      "builtAt": 1632028179774,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -55240,8 +55240,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/components/scroll-to-top/scroll-to-top.module.scss",
       "hash": "8cd7a62a4ddfc9a78fd6",
       "version": "5.38.1",
-      "time": 1342,
-      "builtAt": 1629978546877,
+      "time": 1375,
+      "builtAt": 1632028179480,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -55949,8 +55949,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/pages/home/home.module.scss",
       "hash": "85a7f9db259167521d6e",
       "version": "5.38.1",
-      "time": 817,
-      "builtAt": 1629978547131,
+      "time": 911,
+      "builtAt": 1632028179794,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
@@ -56658,8 +56658,8 @@
       "name": "mini-css-extract-plugin /home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/resolve-url-loader/index.js??ruleSet[1].rules[3].use[3]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[4]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/styles/index.scss",
       "hash": "d094c8a5586f3d513eae",
       "version": "5.38.1",
-      "time": 2335,
-      "builtAt": 1629978546738,
+      "time": 2438,
+      "builtAt": 1632028179355,
       "publicPath": "/webcomponents-webpack-ts/",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
