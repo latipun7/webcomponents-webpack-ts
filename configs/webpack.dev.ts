@@ -32,11 +32,11 @@ const dev = async (): Promise<Configuration> => ({
     overlay: { errors: true, warnings: false },
   },
   plugins: [
-    new ForkTsCheckerWebpackPlugin({
-      issue: { include: { severity: 'warning' } },
-    }),
     new MiniCssExtractPlugin({
       filename: '[name].css',
+    }),
+    new ForkTsCheckerWebpackPlugin({
+      issue: { include: { severity: 'warning' } },
     }),
   ],
   module: {
