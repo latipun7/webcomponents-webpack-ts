@@ -1,14 +1,14 @@
 # GitHub Actions References:
 # https://docs.github.com/en/actions/reference
 
-name: Test, Build, and Deploy ⚙⚛✨🚀
+name: Continuous Integration and Continuous Delivery ⚙🚀
 
 on:
   push:
     branches: [main]
 
   pull_request:
-    branches: [main]
+    types: [opened, synchronize]
 
 jobs:
   test_build:
@@ -17,7 +17,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest]
-        node-version: [16.x, 14.x]
+        node: [16.x, "lts/*"]
 
     runs-on: ${{ matrix.os }}
 
@@ -47,12 +47,12 @@ jobs:
       - name: Run Build ⚙
         run: yarn build
 
-      - name: Cache build ready to deploy 🚀
+      - name: Cache dist Directory for Deploy 🚀
         uses: actions/cache@v2.1.6
         with:
           path: |
-            ./dist
-          key: ${{ github.sha }}-${{ runner.os }}-${{ matrix.node-version }}
+            **/dist
+          key: ${{ github.sha }}-${{ runner.os }}-${{ matrix.node }}
 
   deploy:
     name: Deploy to production ✨🚀
@@ -64,7 +64,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest]
-        node-version: [14.x]
+        node: ["lts/*"]
 
     runs-on: ${{ matrix.os }}
 
@@ -76,13 +76,11 @@ jobs:
         uses: actions/cache@v2.1.6
         with:
           path: |
-            ./dist
-          key: ${{ github.sha }}-${{ runner.os }}-${{ matrix.node-version }}
+            **/dist
+          key: ${{ github.sha }}-${{ runner.os }}-${{ matrix.node }}
 
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.4
+        uses: peaceiris/actions-gh-pages@v3.8.0
         with:
-          branch: gh-pages
-          folder: dist
-          git-config-name: latipun7
-          git-config-email: latifsulistyo.me@gmail.com
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist

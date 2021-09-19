@@ -1,8 +1,10 @@
-# `Web Components Template 🎨`
+# `webcomponents-webpack-ts 🎨`
 
-[![Discord](https://img.shields.io/discord/758271814153011201?label=Developers%20Indonesia&logo=discord&style=flat-square)](https://discord.gg/njSj2Nq "Chat and discuss at Developers Indonesia")
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/latipun7/webcomponents-webpack-ts/Test,%20Build,%20and%20Deploy%20%E2%9A%99%E2%9A%9B%E2%9C%A8%F0%9F%9A%80?label=CI%2FCD&logo=github%20actions&style=flat-square)](https://github.com/latipun7/webcomponents-webpack-ts/actions "GitHub Actions")
+[![Discord][discord-image]][discord-url]
+[![GitHub Workflow Status][workflow-image]][workflow-url]
 
+> **Webcomponents Template 🎨**
+>
 > Web Components template powered by Webpack, Typescript, and others 💪
 
 ## About
@@ -39,6 +41,13 @@ Getting up and running is as easy.
    yarn build
    ```
 
----
+## Hacking to the Gate~! 🐱‍💻🎶
 
-Copyright © Latif Sulistyo
+[MIT License](./license) © Latif Sulistyo
+
+<!-- Variables -->
+
+[discord-image]: https://img.shields.io/discord/758271814153011201?label=Developers%20Indonesia&logo=discord&style=flat-square
+[discord-url]: https://discord.gg/njSj2Nq "Chat and discuss at Developers Indonesia"
+[workflow-image]: https://img.shields.io/github/workflow/status/latipun7/webcomponents-webpack-ts/Continuous%20Integration%20and%20Continuous%20Delivery%20%E2%9A%99%F0%9F%9A%80?label=CI%2FCD&logo=github%20actions&style=flat-square
+[workflow-url]: https://github.com/latipun7/webcomponents-webpack-ts/actions "GitHub Actions"
