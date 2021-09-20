@@ -66,6 +66,7 @@ const dev = async (): Promise<Configuration> => ({
           {
             loader: 'css-loader',
             options: {
+              esModule: false,
               sourceMap: true,
               importLoaders: 3,
               modules: { auto: true, localIdentName: '[path][name]__[local]' },
