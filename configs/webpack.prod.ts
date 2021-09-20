@@ -19,7 +19,7 @@ const babelLoader = {
         '@babel/preset-env',
         {
           useBuiltIns: 'usage',
-          corejs: 3.17,
+          corejs: 3.18,
         },
       ],
       ['@babel/preset-typescript', { onlyRemoveTypeImports: true }],
