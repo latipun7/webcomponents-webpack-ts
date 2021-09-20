@@ -2554,10 +2554,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:^16.9.2":
+"@types/node@npm:*":
   version: 16.9.2
   resolution: "@types/node@npm:16.9.2"
   checksum: 204aa883bc93a267f43804af8872e538935369ab905d5ca702d2c17a213339f8df974bb95d21e2e714e8f83f669b185d8526f7c4b5d16adbdb5d96d4f2e75fa9
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:^16.9.4":
+  version: 16.9.4
+  resolution: "@types/node@npm:16.9.4"
+  checksum: ae281eec8e0ead86fd5fd76f56312db85dce27d0ac086d07bc917df98e16af792adc4f26dab099698509e2c3704cbd17224ec8138e822d569e3cadfc15569a71
   languageName: node
   linkType: hard
 
@@ -2986,7 +2993,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@webcomponents/webcomponentsjs@npm:^2.5.0":
+"@webcomponents/webcomponentsjs@npm:^2.6.0":
   version: 2.6.0
   resolution: "@webcomponents/webcomponentsjs@npm:2.6.0"
   checksum: b1325d7ce201644890e666b723c33cd759c3286fe222962073a4652fa671ad07a8a6797303411440b7ad21a65399373dd9a4a920f6cefe758fa98cbc71e704b5
@@ -4704,10 +4711,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"core-js@npm:^3.17.3":
-  version: 3.17.3
-  resolution: "core-js@npm:3.17.3"
-  checksum: cdc61f068533469e15745e4644cc205916248b5b49d07840ed8e26a52e4aa557499e3d70e42a76dbc5e921f87d2db4365d9d3a5b8babbd351c3fd9e981d74fab
+"core-js@npm:^3.18.0":
+  version: 3.18.0
+  resolution: "core-js@npm:3.18.0"
+  checksum: 192c345eb0c8b9d582ebed798cf124e00cd8241303c3c801987563f8ebb8cb991e2ff91494c258752014c29d5515070d2c0a862687401c7d7e1e2f96f8980d42
   languageName: node
   linkType: hard
 
@@ -7347,12 +7354,12 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"husky@npm:^6.0.0":
-  version: 6.0.0
-  resolution: "husky@npm:6.0.0"
+"husky@npm:^7.0.2":
+  version: 7.0.2
+  resolution: "husky@npm:7.0.2"
   bin:
     husky: lib/bin.js
-  checksum: db6da76a670b2cd1e967990decfd291e6f35a5aee4d362208a51771474d3b4896d526acb4bf0413c2d7154716e42a4d8b6cc19f2bb108e48d1f554624c723a00
+  checksum: 2ccfe6ddc51dc05ae8ea1e2fbb893344e93a813e00c595d6b5f5e704b7b998d6b0e2adda7c57f99b5e46a60dc07c7d860269a2ea91661c6bacef0eca8e0b8e96
   languageName: node
   linkType: hard
 
@@ -14279,17 +14286,17 @@ typescript@^4.4.3:
     "@types/cssnano": ^4.0.1
     "@types/jest": ^27.0.1
     "@types/mini-css-extract-plugin": ^2.3.0
-    "@types/node": ^16.9.2
+    "@types/node": ^16.9.4
     "@types/postcss-preset-env": ^6.7.3
     "@types/webpack-bundle-analyzer": ^4.4.1
     "@types/webpack-dev-server": ^3.11.6
     "@types/workbox-webpack-plugin": ^5.1.8
-    "@webcomponents/webcomponentsjs": ^2.5.0
+    "@webcomponents/webcomponentsjs": ^2.6.0
     babel-jest: ^27.2.0
     babel-loader: ^8.2.2
     clean-webpack-plugin: ^4.0.0
     copy-webpack-plugin: ^9.0.1
-    core-js: ^3.17.3
+    core-js: ^3.18.0
     css-loader: ^5.2.7
     css-minimizer-webpack-plugin: ^3.0.2
     cssnano: ^5.0.8
@@ -14302,7 +14309,7 @@ typescript@^4.4.3:
     fork-ts-checker-webpack-plugin: ^6.3.3
     html-loader: ^2.1.2
     html-webpack-plugin: ^5.3.2
-    husky: ^6.0.0
+    husky: ^7.0.2
     identity-obj-proxy: ^3.0.0
     jest: ^27.2.0
     lint-staged: ^11.1.2
