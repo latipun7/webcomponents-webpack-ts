@@ -89,6 +89,7 @@ const prod = async (): Promise<Configuration> => ({
           {
             loader: 'css-loader',
             options: {
+              esModule: false,
               sourceMap: false,
               importLoaders: 3,
               modules: { auto: true, localIdentName: '[hash:base64]' },
