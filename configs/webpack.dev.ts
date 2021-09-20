@@ -4,7 +4,7 @@ import postcssPresetEnv from 'postcss-preset-env';
 import type { Configuration } from 'webpack';
 
 import AppConfig from './app.config';
-import { buildDir, srcDir, publicDir } from './paths';
+import { buildDir, srcDir } from './paths';
 
 const babelLoader = {
   loader: 'babel-loader',
@@ -25,11 +25,13 @@ const dev = async (): Promise<Configuration> => ({
   devServer: {
     hot: true,
     open: false,
-    writeToDisk: true,
-    contentBase: publicDir,
-    watchContentBase: true,
+    devMiddleware: {
+      writeToDisk: true,
+    },
+    client: {
+      overlay: { errors: true, warnings: false },
+    },
     historyApiFallback: true,
-    overlay: { errors: true, warnings: false },
   },
   plugins: [
     new MiniCssExtractPlugin({
