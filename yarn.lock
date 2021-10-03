@@ -2728,9 +2728,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/webpack-dev-server@npm:^4.1.0":
-  version: 4.1.0
-  resolution: "@types/webpack-dev-server@npm:4.1.0"
+"@types/webpack-dev-server@npm:^4.3.0":
+  version: 4.3.0
+  resolution: "@types/webpack-dev-server@npm:4.3.0"
   dependencies:
     "@types/bonjour": "*"
     "@types/connect-history-api-fallback": "*"
@@ -2741,7 +2741,7 @@ __metadata:
     "@types/webpack-dev-middleware": "*"
     chokidar: ^3.5.1
     http-proxy-middleware: ^2.0.0
-  checksum: fc64ec2b63ec58156b6778ea793c1cd1e2c997cbad9e9f346b231014e4f63865bef756e871cc625eaaf7f0301a9d087c2dd62ca5f971a3b60840ca6573da5d81
+  checksum: 37eb068892d79d01e58da4005ea746373250309de24fead50b2fc0093156f5dff2a6ad62f8826cddd98c55aacdc56cfcc73fe13846445e6d717e312c43fe0cef
   languageName: node
   linkType: hard
 
@@ -13273,7 +13273,7 @@ typescript@^4.4.3:
     "@types/node": ^16.9.4
     "@types/postcss-preset-env": ^6.7.3
     "@types/webpack-bundle-analyzer": ^4.4.1
-    "@types/webpack-dev-server": ^4.1.0
+    "@types/webpack-dev-server": ^4.3.0
     "@types/workbox-webpack-plugin": ^5.1.8
     "@webcomponents/webcomponentsjs": ^2.6.0
     babel-jest: ^27.2.1
