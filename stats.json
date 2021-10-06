@@ -1,8 +1,8 @@
 {
   "hash": "c817c54bdc0653297895",
   "version": "5.53.0",
-  "time": 53144,
-  "builtAt": 1633520350906,
+  "time": 51759,
+  "builtAt": 1633520432717,
   "publicPath": "/webcomponents-webpack-ts/",
   "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
   "assetsByChunkName": {
@@ -4556,8 +4556,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/web.dom-collections.for-each.js",
-          "issuerName": "./node_modules/core-js/modules/web.dom-collections.for-each.js",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+          "issuerName": "./node_modules/core-js/modules/es.regexp.constructor.js",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -4570,16 +4570,16 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/web.dom-collections.for-each.js",
-              "name": "./node_modules/core-js/modules/web.dom-collections.for-each.js",
-              "id": 4747
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+              "name": "./node_modules/core-js/modules/es.regexp.constructor.js",
+              "id": 4603
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 8880,
-          "issuerId": 4747,
+          "issuerId": 4603,
           "chunks": [
             94
           ],
@@ -4758,9 +4758,9 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/web.dom-collections.for-each.js",
-              "name": "./node_modules/core-js/modules/web.dom-collections.for-each.js",
-              "id": 4747
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+              "name": "./node_modules/core-js/modules/es.regexp.constructor.js",
+              "id": 4603
             },
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/create-non-enumerable-property.js",
@@ -9711,8 +9711,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-iteration.js",
-          "issuerName": "./node_modules/core-js/internals/array-iteration.js",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/to-indexed-object.js",
+          "issuerName": "./node_modules/core-js/internals/to-indexed-object.js",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -9725,26 +9725,26 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/web.dom-collections.for-each.js",
-              "name": "./node_modules/core-js/modules/web.dom-collections.for-each.js",
-              "id": 4747
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.object.entries.js",
+              "name": "./node_modules/core-js/modules/es.object.entries.js",
+              "id": 9720
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-for-each.js",
-              "name": "./node_modules/core-js/internals/array-for-each.js",
-              "id": 8533
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-to-array.js",
+              "name": "./node_modules/core-js/internals/object-to-array.js",
+              "id": 4699
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-iteration.js",
-              "name": "./node_modules/core-js/internals/array-iteration.js",
-              "id": 2092
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/to-indexed-object.js",
+              "name": "./node_modules/core-js/internals/to-indexed-object.js",
+              "id": 5656
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 8361,
-          "issuerId": 2092,
+          "issuerId": 5656,
           "chunks": [
             94
           ],
@@ -40024,8 +40024,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/web.dom-collections.for-each.js",
-      "issuerName": "./node_modules/core-js/modules/web.dom-collections.for-each.js",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+      "issuerName": "./node_modules/core-js/modules/es.regexp.constructor.js",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -40038,16 +40038,16 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/web.dom-collections.for-each.js",
-          "name": "./node_modules/core-js/modules/web.dom-collections.for-each.js",
-          "id": 4747
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+          "name": "./node_modules/core-js/modules/es.regexp.constructor.js",
+          "id": 4603
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 8880,
-      "issuerId": 4747,
+      "issuerId": 4603,
       "chunks": [
         94
       ],
@@ -46686,9 +46686,9 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/web.dom-collections.for-each.js",
-          "name": "./node_modules/core-js/modules/web.dom-collections.for-each.js",
-          "id": 4747
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+          "name": "./node_modules/core-js/modules/es.regexp.constructor.js",
+          "id": 4603
         },
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/create-non-enumerable-property.js",
@@ -51457,8 +51457,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-iteration.js",
-      "issuerName": "./node_modules/core-js/internals/array-iteration.js",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/to-indexed-object.js",
+      "issuerName": "./node_modules/core-js/internals/to-indexed-object.js",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -51471,26 +51471,26 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/web.dom-collections.for-each.js",
-          "name": "./node_modules/core-js/modules/web.dom-collections.for-each.js",
-          "id": 4747
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.object.entries.js",
+          "name": "./node_modules/core-js/modules/es.object.entries.js",
+          "id": 9720
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-for-each.js",
-          "name": "./node_modules/core-js/internals/array-for-each.js",
-          "id": 8533
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-to-array.js",
+          "name": "./node_modules/core-js/internals/object-to-array.js",
+          "id": 4699
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/array-iteration.js",
-          "name": "./node_modules/core-js/internals/array-iteration.js",
-          "id": 2092
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/to-indexed-object.js",
+          "name": "./node_modules/core-js/internals/to-indexed-object.js",
+          "id": 5656
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 8361,
-      "issuerId": 2092,
+      "issuerId": 5656,
       "chunks": [
         94
       ],
@@ -57696,8 +57696,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "63bbd1eb5e124448afff",
       "version": "5.53.0",
-      "time": 37000,
-      "builtAt": 1633520334806,
+      "time": 35987,
+      "builtAt": 1633520416997,
       "publicPath": "",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
