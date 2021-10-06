@@ -2178,9 +2178,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@testing-library/dom@npm:^8.5.0":
-  version: 8.5.0
-  resolution: "@testing-library/dom@npm:8.5.0"
+"@testing-library/dom@npm:^8.7.2":
+  version: 8.7.2
+  resolution: "@testing-library/dom@npm:8.7.2"
   dependencies:
     "@babel/code-frame": ^7.10.4
     "@babel/runtime": ^7.12.5
@@ -2190,7 +2190,7 @@ __metadata:
     dom-accessibility-api: ^0.5.6
     lz-string: ^1.4.4
     pretty-format: ^27.0.2
-  checksum: fde0e9086de62e92a50e866a3b7d00c05ebdd054f5b044652b80726c82733f50fd290dda99a8aba4a3ff763ea16910c1916f0c8fbadd0a1b48ffdc159eafcb9c
+  checksum: 9c0b2a9bc7aa92f22d909d677093d4d520c59de36013e97ba6eeaea4b4fccd3cae7e1221712bf079939b7d86aa69740441b206ae1cb9c3a1ecbb420070f4d0c9
   languageName: node
   linkType: hard
 
@@ -13265,7 +13265,7 @@ typescript@^4.4.3:
     "@babel/runtime": ^7.15.4
     "@fullhuman/postcss-purgecss": ^4.0.3
     "@jest/types": ^27.1.1
-    "@testing-library/dom": ^8.5.0
+    "@testing-library/dom": ^8.7.2
     "@testing-library/jest-dom": ^5.14.1
     "@types/copy-webpack-plugin": ^8.0.1
     "@types/css-minimizer-webpack-plugin": ^3.0.2
