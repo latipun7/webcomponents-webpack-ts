@@ -29,15 +29,15 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@babel/runtime": "^7.15.4",
+    "@babel/runtime": "^7.16.0",
     "@webcomponents/webcomponentsjs": "^2.6.0",
     "core-js": "^3.18.3",
     "navigo": "^8.11.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.15.5",
-    "@babel/preset-env": "^7.15.6",
-    "@babel/preset-typescript": "^7.15.0",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "@babel/preset-typescript": "^7.16.0",
     "@fullhuman/postcss-purgecss": "^4.0.3",
     "@jest/types": "^27.1.1",
     "@testing-library/dom": "^8.7.2",
@@ -53,7 +53,7 @@
     "@types/webpack-dev-server": "^4.3.0",
     "@types/workbox-webpack-plugin": "^5.1.8",
     "babel-jest": "^27.2.1",
-    "babel-loader": "^8.2.2",
+    "babel-loader": "^8.2.3",
     "clean-webpack-plugin": "^4.0.0",
     "copy-webpack-plugin": "^9.0.1",
     "css-loader": "^6.3.0",
