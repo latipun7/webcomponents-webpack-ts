@@ -1,13 +1,13 @@
 {
-  "hash": "686d56717ce5d5c680f2",
+  "hash": "926526cddb10d631c0a5",
   "version": "5.53.0",
-  "time": 42218,
-  "builtAt": 1635897058377,
+  "time": 48331,
+  "builtAt": 1636277991259,
   "publicPath": "/webcomponents-webpack-ts/",
   "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
   "assetsByChunkName": {
     "index": [
-      "index-ce6f9fbb.css",
+      "index-7cfa7fbb.css",
       "scripts/index-1f06f9e4.js"
     ]
   },
@@ -1278,16 +1278,16 @@
     },
     {
       "type": "asset",
-      "name": "index-ce6f9fbb.css",
-      "size": 10806,
+      "name": "index-7cfa7fbb.css",
+      "size": 10802,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "contenthash": "ce6f9fbb",
+        "contenthash": "7cfa7fbb",
         "minimized": true,
-        "size": 10806
+        "size": 10802
       },
       "chunkNames": [
         "index"
@@ -18363,8 +18363,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.string.replace.js",
-          "issuerName": "./node_modules/core-js/modules/es.string.replace.js",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+          "issuerName": "./node_modules/core-js/modules/es.regexp.constructor.js",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -18377,16 +18377,16 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.string.replace.js",
-              "name": "./node_modules/core-js/modules/es.string.replace.js",
-              "id": 5306
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+              "name": "./node_modules/core-js/modules/es.regexp.constructor.js",
+              "id": 4603
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 1340,
-          "issuerId": 5306,
+          "issuerId": 4603,
           "chunks": [
             94
           ],
@@ -23086,10 +23086,10 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 98658,
+      "size": 98654,
       "sizes": {
         "javascript": 84269,
-        "css/mini-extract": 10841,
+        "css/mini-extract": 10837,
         "runtime": 3548
       },
       "names": [
@@ -23100,14 +23100,14 @@
         "index"
       ],
       "files": [
-        "index-ce6f9fbb.css",
+        "index-7cfa7fbb.css",
         "scripts/index-1f06f9e4.js"
       ],
       "auxiliaryFiles": [
         "assets/a7e3e602-320.webp",
         "scripts/index-1f06f9e4.js.map"
       ],
-      "hash": "e1e212b3f3d4b1f78c08",
+      "hash": "b217ef03ede79ae24cf1",
       "childrenByOrder": {},
       "id": 826,
       "siblings": [
@@ -26853,9 +26853,9 @@
         {
           "type": "module",
           "moduleType": "css/mini-extract",
-          "size": 4231,
+          "size": 4229,
           "sizes": {
-            "css/mini-extract": 4231
+            "css/mini-extract": 4229
           },
           "built": true,
           "codeGenerated": true,
@@ -27248,9 +27248,9 @@
         {
           "type": "module",
           "moduleType": "css/mini-extract",
-          "size": 1430,
+          "size": 1428,
           "sizes": {
-            "css/mini-extract": 1430
+            "css/mini-extract": 1428
           },
           "built": true,
           "codeGenerated": true,
@@ -37845,9 +37845,9 @@
     {
       "type": "module",
       "moduleType": "css/mini-extract",
-      "size": 1430,
+      "size": 1428,
       "sizes": {
-        "css/mini-extract": 1430
+        "css/mini-extract": 1428
       },
       "built": true,
       "codeGenerated": true,
@@ -44514,8 +44514,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.string.replace.js",
-      "issuerName": "./node_modules/core-js/modules/es.string.replace.js",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+      "issuerName": "./node_modules/core-js/modules/es.regexp.constructor.js",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -44528,16 +44528,16 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.string.replace.js",
-          "name": "./node_modules/core-js/modules/es.string.replace.js",
-          "id": 5306
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+          "name": "./node_modules/core-js/modules/es.regexp.constructor.js",
+          "id": 4603
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 1340,
-      "issuerId": 5306,
+      "issuerId": 4603,
       "chunks": [
         94
       ],
@@ -55370,9 +55370,9 @@
     {
       "type": "module",
       "moduleType": "css/mini-extract",
-      "size": 4231,
+      "size": 4229,
       "sizes": {
-        "css/mini-extract": 4231
+        "css/mini-extract": 4229
       },
       "built": true,
       "codeGenerated": true,
@@ -56283,9 +56283,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 5044,
+      "size": 5042,
       "sizes": {
-        "javascript": 5044
+        "javascript": 5042
       },
       "built": true,
       "codeGenerated": true,
@@ -56686,9 +56686,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 1870,
+      "size": 1868,
       "sizes": {
-        "javascript": 1870
+        "javascript": 1868
       },
       "built": true,
       "codeGenerated": true,
@@ -57603,8 +57603,8 @@
           "size": 67258
         },
         {
-          "name": "index-ce6f9fbb.css",
-          "size": 10806
+          "name": "index-7cfa7fbb.css",
+          "size": 10802
         },
         {
           "name": "scripts/index-1f06f9e4.js",
@@ -57612,7 +57612,7 @@
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 132928,
+      "assetsSize": 132924,
       "auxiliaryAssets": [
         {
           "name": "assets/a7e3e602-320.webp",
@@ -57647,8 +57647,8 @@
           "size": 67258
         },
         {
-          "name": "index-ce6f9fbb.css",
-          "size": 10806
+          "name": "index-7cfa7fbb.css",
+          "size": 10802
         },
         {
           "name": "scripts/index-1f06f9e4.js",
@@ -57656,7 +57656,7 @@
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 132928,
+      "assetsSize": 132924,
       "auxiliaryAssets": [
         {
           "name": "assets/a7e3e602-320.webp",
@@ -57696,8 +57696,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "63bbd1eb5e124448afff",
       "version": "5.53.0",
-      "time": 29915,
-      "builtAt": 1635897046183,
+      "time": 33398,
+      "builtAt": 1636277976367,
       "publicPath": "",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
