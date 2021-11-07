@@ -2555,14 +2555,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/mini-css-extract-plugin@npm:^2.3.0":
-  version: 2.3.0
-  resolution: "@types/mini-css-extract-plugin@npm:2.3.0"
+"@types/mini-css-extract-plugin@npm:^2.4.0":
+  version: 2.4.0
+  resolution: "@types/mini-css-extract-plugin@npm:2.4.0"
   dependencies:
     "@types/node": "*"
     tapable: ^2.2.0
     webpack: ^5
-  checksum: d1bf5b42f909efdb73633d098ac5fda9ab5f0f40bbf8e4977a60b5ff0002866c2419275719e3d663e3d4953327305a17a1c1ca8a703405a4df7f01f8573fc668
+  checksum: 7f2be7cadb012078d4e3ba6fde8d09d586d1ec39f170f54ea5cc0654a8834b2c4c765a89710972638ebb6f97299fc9115ed5fd8ffe4db7f12332d5ad5ba3ee26
   languageName: node
   linkType: hard
 
@@ -8941,14 +8941,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mini-css-extract-plugin@npm:^2.4.2":
-  version: 2.4.2
-  resolution: "mini-css-extract-plugin@npm:2.4.2"
+"mini-css-extract-plugin@npm:^2.4.4":
+  version: 2.4.4
+  resolution: "mini-css-extract-plugin@npm:2.4.4"
   dependencies:
     schema-utils: ^3.1.0
   peerDependencies:
     webpack: ^5.0.0
-  checksum: c413b4fd0ba0ff398b58ddecc0e805c254c2253e6536627469408b29ea1eb9f5b38c610a3be505c6ca9096a1bb5ed4faf8c6ff8c387b2b4891c8e38fdc8f719b
+  checksum: afc3c2d364096b3ec79c910f0b0e0f62b6861b84e0bcdf8c05b267e529b8f4e450984b0fc7afcd1e87616cbefcd688eeef1c41ce3c892a9c313f4dc9132189fb
   languageName: node
   linkType: hard
 
@@ -13437,7 +13437,7 @@ typescript@^4.4.4:
     "@types/css-minimizer-webpack-plugin": ^3.0.2
     "@types/cssnano": ^4.0.1
     "@types/jest": ^27.0.2
-    "@types/mini-css-extract-plugin": ^2.3.0
+    "@types/mini-css-extract-plugin": ^2.4.0
     "@types/node": ^16.9.4
     "@types/postcss-preset-env": ^6.7.3
     "@types/webpack-bundle-analyzer": ^4.4.1
@@ -13465,7 +13465,7 @@ typescript@^4.4.4:
     identity-obj-proxy: ^3.0.0
     jest: ^27.2.1
     lint-staged: ^11.1.2
-    mini-css-extract-plugin: ^2.4.2
+    mini-css-extract-plugin: ^2.4.4
     navigo: ^8.11.1
     postcss: ^8.3.9
     postcss-loader: ^6.1.1
