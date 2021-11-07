@@ -1,8 +1,8 @@
 {
   "hash": "926526cddb10d631c0a5",
   "version": "5.53.0",
-  "time": 48331,
-  "builtAt": 1636277991259,
+  "time": 50654,
+  "builtAt": 1636279928013,
   "publicPath": "/webcomponents-webpack-ts/",
   "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
   "assetsByChunkName": {
@@ -18363,8 +18363,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
-          "issuerName": "./node_modules/core-js/modules/es.regexp.constructor.js",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.string.replace.js",
+          "issuerName": "./node_modules/core-js/modules/es.string.replace.js",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -18377,16 +18377,16 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
-              "name": "./node_modules/core-js/modules/es.regexp.constructor.js",
-              "id": 4603
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.string.replace.js",
+              "name": "./node_modules/core-js/modules/es.string.replace.js",
+              "id": 5306
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 1340,
-          "issuerId": 4603,
+          "issuerId": 5306,
           "chunks": [
             94
           ],
@@ -44514,8 +44514,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
-      "issuerName": "./node_modules/core-js/modules/es.regexp.constructor.js",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.string.replace.js",
+      "issuerName": "./node_modules/core-js/modules/es.string.replace.js",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -44528,16 +44528,16 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
-          "name": "./node_modules/core-js/modules/es.regexp.constructor.js",
-          "id": 4603
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.string.replace.js",
+          "name": "./node_modules/core-js/modules/es.string.replace.js",
+          "id": 5306
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 1340,
-      "issuerId": 4603,
+      "issuerId": 5306,
       "chunks": [
         94
       ],
@@ -57696,8 +57696,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "63bbd1eb5e124448afff",
       "version": "5.53.0",
-      "time": 33398,
-      "builtAt": 1636277976367,
+      "time": 35177,
+      "builtAt": 1636279912592,
       "publicPath": "",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
