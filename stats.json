@@ -1,14 +1,14 @@
 {
-  "hash": "926526cddb10d631c0a5",
+  "hash": "8c886f3414fc16a4d6b1",
   "version": "5.53.0",
-  "time": 48020,
-  "builtAt": 1636533737759,
+  "time": 47837,
+  "builtAt": 1636541604575,
   "publicPath": "/webcomponents-webpack-ts/",
   "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
   "assetsByChunkName": {
     "index": [
-      "index-7cfa7fbb.css",
-      "scripts/index-1f06f9e4.js"
+      "index-c6c8b70b.css",
+      "scripts/index-630b51c8.js"
     ]
   },
   "assets": [
@@ -755,18 +755,18 @@
     },
     {
       "type": "asset",
-      "name": "scripts/index-1f06f9e4.js",
+      "name": "scripts/index-630b51c8.js",
       "size": 54864,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "contenthash": "1f06f9e4",
+        "contenthash": "630b51c8",
         "javascriptModule": false,
         "minimized": true,
         "related": {
-          "sourceMap": "scripts/index-1f06f9e4.js.map"
+          "sourceMap": "scripts/index-630b51c8.js.map"
         },
         "size": 54864
       },
@@ -780,7 +780,7 @@
       "related": [
         {
           "type": "sourceMap",
-          "name": "scripts/index-1f06f9e4.js.map",
+          "name": "scripts/index-630b51c8.js.map",
           "size": 13112,
           "emitted": true,
           "comparedForEmit": false,
@@ -1278,14 +1278,14 @@
     },
     {
       "type": "asset",
-      "name": "index-7cfa7fbb.css",
+      "name": "index-c6c8b70b.css",
       "size": 10802,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "immutable": true,
-        "contenthash": "7cfa7fbb",
+        "contenthash": "c6c8b70b",
         "minimized": true,
         "size": 10802
       },
@@ -23100,14 +23100,14 @@
         "index"
       ],
       "files": [
-        "index-7cfa7fbb.css",
-        "scripts/index-1f06f9e4.js"
+        "index-c6c8b70b.css",
+        "scripts/index-630b51c8.js"
       ],
       "auxiliaryFiles": [
         "assets/a7e3e602-320.webp",
-        "scripts/index-1f06f9e4.js.map"
+        "scripts/index-630b51c8.js.map"
       ],
-      "hash": "b217ef03ede79ae24cf1",
+      "hash": "d8356ad6b1ff417b5fcc",
       "childrenByOrder": {},
       "id": 826,
       "siblings": [
@@ -56768,9 +56768,9 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 2326,
+      "size": 2318,
       "sizes": {
-        "javascript": 2326
+        "javascript": 2318
       },
       "built": true,
       "codeGenerated": true,
@@ -57603,11 +57603,11 @@
           "size": 67258
         },
         {
-          "name": "index-7cfa7fbb.css",
+          "name": "index-c6c8b70b.css",
           "size": 10802
         },
         {
-          "name": "scripts/index-1f06f9e4.js",
+          "name": "scripts/index-630b51c8.js",
           "size": 54864
         }
       ],
@@ -57623,7 +57623,7 @@
           "size": 119448
         },
         {
-          "name": "scripts/index-1f06f9e4.js.map",
+          "name": "scripts/index-630b51c8.js.map",
           "size": 13112
         }
       ],
@@ -57647,11 +57647,11 @@
           "size": 67258
         },
         {
-          "name": "index-7cfa7fbb.css",
+          "name": "index-c6c8b70b.css",
           "size": 10802
         },
         {
-          "name": "scripts/index-1f06f9e4.js",
+          "name": "scripts/index-630b51c8.js",
           "size": 54864
         }
       ],
@@ -57667,7 +57667,7 @@
           "size": 119448
         },
         {
-          "name": "scripts/index-1f06f9e4.js.map",
+          "name": "scripts/index-630b51c8.js.map",
           "size": 13112
         }
       ],
@@ -57696,8 +57696,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "63bbd1eb5e124448afff",
       "version": "5.53.0",
-      "time": 34159,
-      "builtAt": 1636533723933,
+      "time": 33066,
+      "builtAt": 1636541589843,
       "publicPath": "",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
