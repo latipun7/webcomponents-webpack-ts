@@ -1,8 +1,8 @@
 {
   "hash": "926526cddb10d631c0a5",
   "version": "5.53.0",
-  "time": 43631,
-  "builtAt": 1636521239558,
+  "time": 48020,
+  "builtAt": 1636533737759,
   "publicPath": "/webcomponents-webpack-ts/",
   "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
   "assetsByChunkName": {
@@ -15275,8 +15275,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.promise.js",
-          "issuerName": "./node_modules/core-js/modules/es.promise.js",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.object.to-string.js",
+          "issuerName": "./node_modules/core-js/modules/es.object.to-string.js",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -15284,16 +15284,16 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.promise.js",
-              "name": "./node_modules/core-js/modules/es.promise.js",
-              "id": 8674
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.object.to-string.js",
+              "name": "./node_modules/core-js/modules/es.object.to-string.js",
+              "id": 1539
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 1320,
-          "issuerId": 8674,
+          "issuerId": 1539,
           "chunks": [
             94
           ],
@@ -16258,8 +16258,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/export.js",
-          "issuerName": "./node_modules/core-js/internals/export.js",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/redefine.js",
+          "issuerName": "./node_modules/core-js/internals/redefine.js",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -16267,21 +16267,21 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.promise.js",
-              "name": "./node_modules/core-js/modules/es.promise.js",
-              "id": 8674
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.object.to-string.js",
+              "name": "./node_modules/core-js/modules/es.object.to-string.js",
+              "id": 1539
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/export.js",
-              "name": "./node_modules/core-js/internals/export.js",
-              "id": 2109
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/redefine.js",
+              "name": "./node_modules/core-js/internals/redefine.js",
+              "id": 1320
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 3505,
-          "issuerId": 2109,
+          "issuerId": 1320,
           "chunks": [
             94
           ],
@@ -33810,8 +33810,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.promise.js",
-      "issuerName": "./node_modules/core-js/modules/es.promise.js",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.object.to-string.js",
+      "issuerName": "./node_modules/core-js/modules/es.object.to-string.js",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -33819,16 +33819,16 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.promise.js",
-          "name": "./node_modules/core-js/modules/es.promise.js",
-          "id": 8674
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.object.to-string.js",
+          "name": "./node_modules/core-js/modules/es.object.to-string.js",
+          "id": 1539
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 1320,
-      "issuerId": 8674,
+      "issuerId": 1539,
       "chunks": [
         94
       ],
@@ -38411,8 +38411,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/export.js",
-      "issuerName": "./node_modules/core-js/internals/export.js",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/redefine.js",
+      "issuerName": "./node_modules/core-js/internals/redefine.js",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -38420,21 +38420,21 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.promise.js",
-          "name": "./node_modules/core-js/modules/es.promise.js",
-          "id": 8674
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.object.to-string.js",
+          "name": "./node_modules/core-js/modules/es.object.to-string.js",
+          "id": 1539
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/export.js",
-          "name": "./node_modules/core-js/internals/export.js",
-          "id": 2109
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/redefine.js",
+          "name": "./node_modules/core-js/internals/redefine.js",
+          "id": 1320
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 3505,
-      "issuerId": 2109,
+      "issuerId": 1320,
       "chunks": [
         94
       ],
@@ -57696,8 +57696,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "63bbd1eb5e124448afff",
       "version": "5.53.0",
-      "time": 29463,
-      "builtAt": 1636521225428,
+      "time": 34159,
+      "builtAt": 1636533723933,
       "publicPath": "",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
