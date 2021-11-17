@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
-    "@babel/preset-env": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
     "@babel/preset-typescript": "^7.16.0",
     "@fullhuman/postcss-purgecss": "^4.0.3",
     "@jest/types": "^27.1.1",
