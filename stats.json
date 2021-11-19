@@ -1,8 +1,8 @@
 {
   "hash": "1bead9578fb7d3bad8ed",
   "version": "5.53.0",
-  "time": 39505,
-  "builtAt": 1637305561808,
+  "time": 49123,
+  "builtAt": 1637313038761,
   "publicPath": "/webcomponents-webpack-ts/",
   "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
   "assetsByChunkName": {
@@ -58867,8 +58867,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "63bbd1eb5e124448afff",
       "version": "5.53.0",
-      "time": 27209,
-      "builtAt": 1637305549555,
+      "time": 34234,
+      "builtAt": 1637313023903,
       "publicPath": "",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
