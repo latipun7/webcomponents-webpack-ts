@@ -47,7 +47,7 @@
     "@types/cssnano": "^4.0.1",
     "@types/jest": "^27.0.3",
     "@types/mini-css-extract-plugin": "^2.4.0",
-    "@types/node": "^16.11.7",
+    "@types/node": "^16.11.9",
     "@types/postcss-preset-env": "^6.7.3",
     "@types/webpack-bundle-analyzer": "^4.4.1",
     "@types/webpack-dev-server": "^4.3.0",
