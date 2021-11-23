@@ -48,7 +48,7 @@ jobs:
         run: yarn build
 
       - name: Cache dist Directory for Deploy 🚀
-        uses: actions/cache@v2.1.6
+        uses: actions/cache@v2.1.7
         with:
           path: |
             **/dist
@@ -73,7 +73,7 @@ jobs:
         uses: actions/checkout@v2.4.0
 
       - name: Restore build cache ♻️
-        uses: actions/cache@v2.1.6
+        uses: actions/cache@v2.1.7
         with:
           path: |
             **/dist
