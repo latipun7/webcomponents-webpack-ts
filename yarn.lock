@@ -7565,9 +7565,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fork-ts-checker-webpack-plugin@npm:^6.4.0":
-  version: 6.4.0
-  resolution: "fork-ts-checker-webpack-plugin@npm:6.4.0"
+"fork-ts-checker-webpack-plugin@npm:^6.4.2":
+  version: 6.4.2
+  resolution: "fork-ts-checker-webpack-plugin@npm:6.4.2"
   dependencies:
     "@babel/code-frame": ^7.8.3
     "@types/json-schema": ^7.0.5
@@ -7592,7 +7592,7 @@ __metadata:
       optional: true
     vue-template-compiler:
       optional: true
-  checksum: feba541453d4bdeaa743388541e125204789369920909f0152b11cfd1801a75fb2f6c708eae0174c9810ab4334fa21dea761037629440a647046581e7df62b8c
+  checksum: c8b970f27a1723d31fe56f30945d5f8d3cc391bf5bd1b186fb022cf0bce12d59ca7b170695b5d91bfeaf5515f3af50e71487a6bbb79cd3c3f44caae38e216016
   languageName: node
   linkType: hard
 
@@ -14934,7 +14934,7 @@ __metadata:
     eslint-config-ruppy-ts: ^2.0.0
     favicons: ^6.2.2
     favicons-webpack-plugin: ^5.0.2
-    fork-ts-checker-webpack-plugin: ^6.4.0
+    fork-ts-checker-webpack-plugin: ^6.4.2
     html-loader: ^2.1.2
     html-webpack-plugin: ^5.5.0
     husky: ^7.0.4
