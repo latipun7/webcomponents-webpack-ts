@@ -1,8 +1,8 @@
 {
   "hash": "1bead9578fb7d3bad8ed",
   "version": "5.53.0",
-  "time": 296727,
-  "builtAt": 1637914459604,
+  "time": 273333,
+  "builtAt": 1637922358114,
   "publicPath": "/webcomponents-webpack-ts/",
   "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
   "assetsByChunkName": {
@@ -3028,14 +3028,14 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.object.keys.js",
-              "name": "./node_modules/core-js/modules/es.object.keys.js",
-              "id": 7941
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+              "name": "./node_modules/core-js/modules/es.regexp.constructor.js",
+              "id": 4603
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-keys.js",
-              "name": "./node_modules/core-js/internals/object-keys.js",
-              "id": 1956
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-get-own-property-names.js",
+              "name": "./node_modules/core-js/internals/object-get-own-property-names.js",
+              "id": 8006
             },
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-keys-internal.js",
@@ -6609,8 +6609,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-keys.js",
-          "issuerName": "./node_modules/core-js/internals/object-keys.js",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-get-own-property-names.js",
+          "issuerName": "./node_modules/core-js/internals/object-get-own-property-names.js",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -6623,21 +6623,21 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.object.keys.js",
-              "name": "./node_modules/core-js/modules/es.object.keys.js",
-              "id": 7941
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+              "name": "./node_modules/core-js/modules/es.regexp.constructor.js",
+              "id": 4603
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-keys.js",
-              "name": "./node_modules/core-js/internals/object-keys.js",
-              "id": 1956
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-get-own-property-names.js",
+              "name": "./node_modules/core-js/internals/object-get-own-property-names.js",
+              "id": 8006
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 748,
-          "issuerId": 1956,
+          "issuerId": 8006,
           "chunks": [
             162
           ],
@@ -14174,8 +14174,8 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-keys.js",
-          "issuerName": "./node_modules/core-js/internals/object-keys.js",
+          "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-get-own-property-names.js",
+          "issuerName": "./node_modules/core-js/internals/object-get-own-property-names.js",
           "issuerPath": [
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -14188,21 +14188,21 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.object.keys.js",
-              "name": "./node_modules/core-js/modules/es.object.keys.js",
-              "id": 7941
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+              "name": "./node_modules/core-js/modules/es.regexp.constructor.js",
+              "id": 4603
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-keys.js",
-              "name": "./node_modules/core-js/internals/object-keys.js",
-              "id": 1956
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-get-own-property-names.js",
+              "name": "./node_modules/core-js/internals/object-get-own-property-names.js",
+              "id": 8006
             }
           ],
           "failed": false,
           "errors": 0,
           "warnings": 0,
           "id": 6324,
-          "issuerId": 1956,
+          "issuerId": 8006,
           "chunks": [
             162
           ],
@@ -17473,14 +17473,14 @@
               "id": null
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.object.keys.js",
-              "name": "./node_modules/core-js/modules/es.object.keys.js",
-              "id": 7941
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+              "name": "./node_modules/core-js/modules/es.regexp.constructor.js",
+              "id": 4603
             },
             {
-              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-keys.js",
-              "name": "./node_modules/core-js/internals/object-keys.js",
-              "id": 1956
+              "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-get-own-property-names.js",
+              "name": "./node_modules/core-js/internals/object-get-own-property-names.js",
+              "id": 8006
             },
             {
               "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-keys-internal.js",
@@ -48141,8 +48141,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-keys.js",
-      "issuerName": "./node_modules/core-js/internals/object-keys.js",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-get-own-property-names.js",
+      "issuerName": "./node_modules/core-js/internals/object-get-own-property-names.js",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -48155,21 +48155,21 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.object.keys.js",
-          "name": "./node_modules/core-js/modules/es.object.keys.js",
-          "id": 7941
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+          "name": "./node_modules/core-js/modules/es.regexp.constructor.js",
+          "id": 4603
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-keys.js",
-          "name": "./node_modules/core-js/internals/object-keys.js",
-          "id": 1956
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-get-own-property-names.js",
+          "name": "./node_modules/core-js/internals/object-get-own-property-names.js",
+          "id": 8006
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 6324,
-      "issuerId": 1956,
+      "issuerId": 8006,
       "chunks": [
         162
       ],
@@ -48249,8 +48249,8 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-keys.js",
-      "issuerName": "./node_modules/core-js/internals/object-keys.js",
+      "issuer": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-get-own-property-names.js",
+      "issuerName": "./node_modules/core-js/internals/object-get-own-property-names.js",
       "issuerPath": [
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[1].use[0]!/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/src/index.ts",
@@ -48263,21 +48263,21 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.object.keys.js",
-          "name": "./node_modules/core-js/modules/es.object.keys.js",
-          "id": 7941
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+          "name": "./node_modules/core-js/modules/es.regexp.constructor.js",
+          "id": 4603
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-keys.js",
-          "name": "./node_modules/core-js/internals/object-keys.js",
-          "id": 1956
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-get-own-property-names.js",
+          "name": "./node_modules/core-js/internals/object-get-own-property-names.js",
+          "id": 8006
         }
       ],
       "failed": false,
       "errors": 0,
       "warnings": 0,
       "id": 748,
-      "issuerId": 1956,
+      "issuerId": 8006,
       "chunks": [
         162
       ],
@@ -52755,14 +52755,14 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.object.keys.js",
-          "name": "./node_modules/core-js/modules/es.object.keys.js",
-          "id": 7941
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+          "name": "./node_modules/core-js/modules/es.regexp.constructor.js",
+          "id": 4603
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-keys.js",
-          "name": "./node_modules/core-js/internals/object-keys.js",
-          "id": 1956
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-get-own-property-names.js",
+          "name": "./node_modules/core-js/internals/object-get-own-property-names.js",
+          "id": 8006
         },
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-keys-internal.js",
@@ -55922,14 +55922,14 @@
           "id": null
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.object.keys.js",
-          "name": "./node_modules/core-js/modules/es.object.keys.js",
-          "id": 7941
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/modules/es.regexp.constructor.js",
+          "name": "./node_modules/core-js/modules/es.regexp.constructor.js",
+          "id": 4603
         },
         {
-          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-keys.js",
-          "name": "./node_modules/core-js/internals/object-keys.js",
-          "id": 1956
+          "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-get-own-property-names.js",
+          "name": "./node_modules/core-js/internals/object-get-own-property-names.js",
+          "id": 8006
         },
         {
           "identifier": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/node_modules/core-js/internals/object-keys-internal.js",
@@ -58867,8 +58867,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "63bbd1eb5e124448afff",
       "version": "5.53.0",
-      "time": 279442,
-      "builtAt": 1637914442375,
+      "time": 257254,
+      "builtAt": 1637922342069,
       "publicPath": "",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
