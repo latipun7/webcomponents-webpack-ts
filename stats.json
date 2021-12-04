@@ -1,8 +1,8 @@
 {
   "hash": "1bead9578fb7d3bad8ed",
   "version": "5.53.0",
-  "time": 288819,
-  "builtAt": 1637998328748,
+  "time": 256680,
+  "builtAt": 1638659324633,
   "publicPath": "/webcomponents-webpack-ts/",
   "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
   "assetsByChunkName": {
@@ -299,14 +299,14 @@
     },
     {
       "type": "asset",
-      "name": "workbox-772bf5fd.js.map",
-      "size": 142636,
+      "name": "workbox-d270ae14.js.map",
+      "size": 143203,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "minimized": true,
-        "size": 142636
+        "size": 143203
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1220,14 +1220,14 @@
     },
     {
       "type": "asset",
-      "name": "workbox-772bf5fd.js",
-      "size": 14807,
+      "name": "workbox-d270ae14.js",
+      "size": 14809,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
       "info": {
         "minimized": true,
-        "size": 14807
+        "size": 14809
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -1304,26 +1304,6 @@
     },
     {
       "type": "asset",
-      "name": "service-worker.js",
-      "size": 10759,
-      "emitted": true,
-      "comparedForEmit": false,
-      "cached": false,
-      "info": {
-        "minimized": true,
-        "size": 10759
-      },
-      "chunkNames": [],
-      "chunkIdHints": [],
-      "auxiliaryChunkNames": [],
-      "auxiliaryChunkIdHints": [],
-      "related": {},
-      "chunks": [],
-      "auxiliaryChunks": [],
-      "isOverSizeLimit": false
-    },
-    {
-      "type": "asset",
       "name": "bundles/webcomponents-pf_js.js",
       "size": 10747,
       "emitted": true,
@@ -1378,6 +1358,26 @@
       "cached": false,
       "info": {
         "size": 10669
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "service-worker.js",
+      "size": 10571,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "minimized": true,
+        "size": 10571
       },
       "chunkNames": [],
       "chunkIdHints": [],
@@ -58867,8 +58867,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "63bbd1eb5e124448afff",
       "version": "5.53.0",
-      "time": 270945,
-      "builtAt": 1637998310912,
+      "time": 240583,
+      "builtAt": 1638659308568,
       "publicPath": "",
       "outputPath": "/home/runner/work/webcomponents-webpack-ts/webcomponents-webpack-ts/dist",
       "assetsByChunkName": {},
