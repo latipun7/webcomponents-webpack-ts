@@ -3642,14 +3642,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/mini-css-extract-plugin@npm:^2.4.0":
-  version: 2.4.0
-  resolution: "@types/mini-css-extract-plugin@npm:2.4.0"
+"@types/mini-css-extract-plugin@npm:^2.5.0":
+  version: 2.5.0
+  resolution: "@types/mini-css-extract-plugin@npm:2.5.0"
   dependencies:
-    "@types/node": "*"
-    tapable: ^2.2.0
-    webpack: ^5
-  checksum: 7f2be7cadb012078d4e3ba6fde8d09d586d1ec39f170f54ea5cc0654a8834b2c4c765a89710972638ebb6f97299fc9115ed5fd8ffe4db7f12332d5ad5ba3ee26
+    mini-css-extract-plugin: "*"
+  checksum: 8912e191195187e6ebf6b190cf9c636296504922472264bdec2d53e97efb261600d815d502041241326babeb56f2a8ab8ffd21f5445eb3bc065c179eb1b907b6
   languageName: node
   linkType: hard
 
@@ -10357,14 +10355,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mini-css-extract-plugin@npm:^2.4.5":
-  version: 2.4.5
-  resolution: "mini-css-extract-plugin@npm:2.4.5"
+"mini-css-extract-plugin@npm:*, mini-css-extract-plugin@npm:^2.6.1":
+  version: 2.6.1
+  resolution: "mini-css-extract-plugin@npm:2.6.1"
   dependencies:
     schema-utils: ^4.0.0
   peerDependencies:
     webpack: ^5.0.0
-  checksum: 09ad56ac33fd960c6a645a2a18b0fee22c34c8e48e91fc48acc5ac3b9c101a5e9ea50d168b94c9fcdf571265271f6e4dd4fea835b2242907d4311b170aff322f
+  checksum: df60840404878c4832b4104799fd29c5a89b06b1e377956c8d4a5729efe0ef301a52e5087d6f383871df5e69a8445922a0ae635c11abf412d7645a7096d0e973
   languageName: node
   linkType: hard
 
@@ -15215,7 +15213,7 @@ __metadata:
     "@types/css-minimizer-webpack-plugin": ^3.0.2
     "@types/cssnano": ^5.0.0
     "@types/jest": ^27.0.3
-    "@types/mini-css-extract-plugin": ^2.4.0
+    "@types/mini-css-extract-plugin": ^2.5.0
     "@types/node": ^16.11.19
     "@types/postcss-preset-env": ^6.7.3
     "@types/webpack-bundle-analyzer": ^4.4.1
@@ -15243,7 +15241,7 @@ __metadata:
     identity-obj-proxy: ^3.0.0
     jest: ^27.3.1
     lint-staged: ^11.2.6
-    mini-css-extract-plugin: ^2.4.5
+    mini-css-extract-plugin: ^2.6.1
     navigo: ^8.11.1
     postcss: ^8.3.11
     postcss-loader: ^6.2.1
