@@ -3427,7 +3427,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/copy-webpack-plugin@npm:^8.0.1":
+"@types/copy-webpack-plugin@npm:8.0.1":
   version: 8.0.1
   resolution: "@types/copy-webpack-plugin@npm:8.0.1"
   dependencies:
@@ -3438,7 +3438,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/css-minimizer-webpack-plugin@npm:^3.0.2":
+"@types/css-minimizer-webpack-plugin@npm:3.0.2":
   version: 3.0.2
   resolution: "@types/css-minimizer-webpack-plugin@npm:3.0.2"
   dependencies:
@@ -3459,7 +3459,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/cssnano@npm:^5.0.0":
+"@types/cssnano@npm:5.0.0":
   version: 5.0.0
   resolution: "@types/cssnano@npm:5.0.0"
   dependencies:
@@ -3611,7 +3611,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/jest@npm:^27.0.3":
+"@types/jest@npm:27.0.3":
   version: 27.0.3
   resolution: "@types/jest@npm:27.0.3"
   dependencies:
@@ -3642,7 +3642,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/mini-css-extract-plugin@npm:^2.4.0":
+"@types/mini-css-extract-plugin@npm:2.4.0":
   version: 2.4.0
   resolution: "@types/mini-css-extract-plugin@npm:2.4.0"
   dependencies:
@@ -3667,7 +3667,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^16.11.19":
+"@types/node@npm:16.11.19":
   version: 16.11.19
   resolution: "@types/node@npm:16.11.19"
   checksum: a9ba0cd1e61c8ad50f3fc9c2b37b795bf0286dacb39dcc985da90328abf0c5151dffe9932d20bc9a6a52c3ce7bfc1e5a7c2dc1416480fb84f1c2d70e25caeba0
@@ -3681,7 +3681,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/postcss-preset-env@npm:^6.7.3":
+"@types/postcss-preset-env@npm:6.7.3":
   version: 6.7.3
   resolution: "@types/postcss-preset-env@npm:6.7.3"
   dependencies:
@@ -3793,7 +3793,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/webpack-bundle-analyzer@npm:^4.4.1":
+"@types/webpack-bundle-analyzer@npm:4.4.1":
   version: 4.4.1
   resolution: "@types/webpack-bundle-analyzer@npm:4.4.1"
   dependencies:
@@ -3815,7 +3815,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/webpack-dev-server@npm:^4.3.0":
+"@types/webpack-dev-server@npm:4.3.0":
   version: 4.3.0
   resolution: "@types/webpack-dev-server@npm:4.3.0"
   dependencies:
@@ -3857,7 +3857,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/workbox-webpack-plugin@npm:^5.1.8":
+"@types/workbox-webpack-plugin@npm:5.1.8":
   version: 5.1.8
   resolution: "@types/workbox-webpack-plugin@npm:5.1.8"
   checksum: 3b70e77ba5d78cf81b442bffde7678de6a0703d6d8cb6de838bb5aa397005b8136868fd07dd3313cdc997bd523e6ae5f962577bb78825288a0e1420685a2bc65
@@ -15211,16 +15211,16 @@ __metadata:
     "@jest/types": ^27.2.5
     "@testing-library/dom": ^8.11.1
     "@testing-library/jest-dom": ^5.16.1
-    "@types/copy-webpack-plugin": ^8.0.1
-    "@types/css-minimizer-webpack-plugin": ^3.0.2
-    "@types/cssnano": ^5.0.0
-    "@types/jest": ^27.0.3
-    "@types/mini-css-extract-plugin": ^2.4.0
-    "@types/node": ^16.11.19
-    "@types/postcss-preset-env": ^6.7.3
-    "@types/webpack-bundle-analyzer": ^4.4.1
-    "@types/webpack-dev-server": ^4.3.0
-    "@types/workbox-webpack-plugin": ^5.1.8
+    "@types/copy-webpack-plugin": 8.0.1
+    "@types/css-minimizer-webpack-plugin": 3.0.2
+    "@types/cssnano": 5.0.0
+    "@types/jest": 27.0.3
+    "@types/mini-css-extract-plugin": 2.4.0
+    "@types/node": 16.11.19
+    "@types/postcss-preset-env": 6.7.3
+    "@types/webpack-bundle-analyzer": 4.4.1
+    "@types/webpack-dev-server": 4.3.0
+    "@types/workbox-webpack-plugin": 5.1.8
     "@webcomponents/webcomponentsjs": ^2.6.0
     babel-jest: ^27.3.1
     babel-loader: ^8.2.3
